@@ -1,0 +1,1000 @@
+Data quality assurance|success|89328463487|Florida;USA|1599093305000|464f:bdbd:1d:535a:2dad:5117:a92f:b359
+Designing and implementing data models|success|89328463488|Ontario;Canada|1589218599000|1366:c314:8d40:4219:4a51:138f:7ce3:d244
+Extracting data from various sources|success|89328463489|California;USA|1595463446000|1ffa:cdd1:7a2b:a7d8:ab00:eada:94b3:7a7c
+Loading data into a data warehouse|success|89328463490|Florida;USA|1605932487000|8ac5:9010:f24c:2f06:4679:aaec:a737:f003
+Data quality assurance|success|89328463491|Queensland;Australia|1587354266000|5a7d:18ec:4650:5421:185c:4fa0:2e86:6643
+Building data pipelines|success|89328463492|Paris;France|1600093768000|1480:2795:2b3a:428e:1023:fa04:586c:90b1
+Optimizing database performance|-|89328463493|Tokyo;Japan|1596900215000|7f2b:df86:5279:687d:2f43:9cbe:d291:8125
+Data quality assurance|success|89328463494|Paris;France|1605052256000|805a:a9ff:45ca:7672:6737:68cc:6f2d:4bd2
+Optimizing database performance|success|89328463495|Queensland;Australia|1594313425000|25d3:9eb2:8066:4cb:3f84:13d5:ab0f:9e3
+Data governance|success|89328463496|Queensland;Australia|1597993211000|f57b:4c0e:26c9:f04d:74a9:16b7:2b02:a063
+Building data pipelines|success|89328463497|California;USA|1602042464000|46fd:b891:e726:4f51:ff1f:8489:a823:84dc
+Transforming data into a unified format|success|89328463498|Florida;USA|1590200468000|8755:3c70:4da:ad2a:a23d:8e9b:1a3b:e9bf
+Loading data into a data warehouse|success|89328463499|Texas;USA|1602613627000|4a73:ce86:e05b:48a6:2235:f676:d4ea:25d
+Loading data into a data warehouse|success|89328463500|Paris;France|1599616589000|ee97:d7d6:4068:3f6e:f8e9:7cf1:8850:5f3e
+Building data pipelines|success|89328463501|New York;USA|1590938268000|f75c:724a:378:3787:b8a2:e9b7:55f4:4b0b
+Designing and implementing data models|success|89328463502|Florida;USA|1596110287000|3b16:b2c0:32e0:c7fa:e4e4:4035:4954:1925
+Designing and implementing data models|-|89328463503|Texas;USA|1602189313000|56c0:efbf:2ecc:67b6:61c:2fa6:7b12:2e12
+Data quality assurance|-|89328463504|Texas;USA|1589042567000|99db:f6af:4b20:e70d:3f70:a3a7:1750:dd48
+Extracting data from various sources|success|89328463505|Texas;USA|1594944197000|4d9b:5fd7:767c:c61b:5b8e:a027:4de6:fa64
+Optimizing database performance|success|89328463506|Florida;USA|1607712620000|7a36:eec8:e57e:a6:90a0:827f:3e16:1544
+Data governance|success|89328463507|Texas;USA|1595269124000|5f7:b36d:6e44:aa20:2d85:e34a:c3bc:933d
+Data quality assurance|success|89328463508|Tokyo;Japan|1599187261000|ab47:d1a9:b22c:f478:971:e067:9fd4:c67
+Loading data into a data warehouse|success|89328463509|California;USA|1596422963000|9563:6439:aa49:2239:6e1d:1c32:b1a0:39c9
+Transforming data into a unified format|success|89328463510|Paris;France|1593468950000|ff37:2e54:5ca0:2d77:ec38:9af2:a180:a416
+Extracting data from various sources|failed|89328463511|Florida;USA|1589401296000|bd6d:1f65:389f:8977:d411:7194:507f:9870
+Data governance|success|89328463512|Texas;USA|1591861517000|791c:7d56:a736:92e2:523f:1d8b:c1c1:c2e7
+Data quality assurance|success|89328463513|Texas;USA|1586969841000|f73:9467:b9bc:27b0:ed5:2109:e89a:9be8
+Data governance|success|89328463514|California;USA|1589197038000|dd06:fb88:e4b0:c6c2:2bd5:2334:eb05:f2bf
+Optimizing database performance|success|89328463515|Florida;USA|1603642899000|e2b:4e14:ce97:d5ac:ec6d:6fff:ea1e:b936
+Data integration|success|89328463516|Florida;USA|1604324366000|af81:5a83:f68f:14f7:36ea:e98:b9d7:b7d6
+Data governance|success|89328463517|Tokyo;Japan|1600686117000|f8a0:bf7d:f195:8452:d2ac:162d:d49d:b3ea
+Data governance|-|89328463518|Paris;France|1590870785000|2e0:9665:ad00:a232:ed01:8244:ed87:6e55
+Building data pipelines|success|89328463519|Texas;USA|1600167885000|63cd:490d:f782:8e81:6ac3:4ade:7818:bd15
+Data integration|success|89328463520|Texas;USA|1586712320000|7b62:dbba:b416:9c89:fc1f:107:18d:1364
+Loading data into a data warehouse|success|89328463521|New York;USA|1593816626000|8add:b5d9:9b21:2ca6:a54e:63b0:b9ec:9450
+Loading data into a data warehouse|success|89328463522|Tokyo;Japan|1601014527000|9221:2ac2:6b88:c2f:9cdc:560a:8f19:9500
+Transforming data into a unified format|success|89328463523|Tokyo;Japan|1594101917000|9b88:56b1:1f77:19ad:ad3:87ba:87f:c6ce
+Designing and implementing data models|success|89328463524|Queensland;Australia|1595796193000|d59c:fe8c:cf3:8bc2:7d1f:9183:5f9b:5d34
+Designing and implementing data models|success|89328463525|Paris;France|1603184095000|dc1d:2564:8837:b3b1:c76f:ddc9:4bb5:8f88
+Data governance|success|89328463526|New York;USA|1593434747000|c6dd:c492:7306:c57f:be19:e82b:dd1b:9b0d
+Building data pipelines|success|89328463527|California;USA|1598431184000|ee61:7de0:83b5:472a:ace8:296:3899:b93c
+Optimizing database performance|success|89328463528|Paris;France|1600479875000|ef0b:751e:87b3:5dca:cd66:e7e5:a800:1d8
+Optimizing database performance|failed|89328463529|Florida;USA|1586786188000|bb6c:43f0:d2a:2140:c4c4:9eb2:535b:479c
+Data governance|success|89328463530|Florida;USA|1606640401000|95c7:c80:239a:8bf2:a6fc:ea36:5ac8:f254
+Extracting data from various sources|success|89328463531|Queensland;Australia|1600073498000|ff98:8df7:3132:6e04:83bd:f7e8:6785:6d10
+Building data pipelines|failed|89328463532|Texas;USA|1594467108000|9005:f086:b98a:dfb1:fd4b:c187:a367:3ce6
+Extracting data from various sources|success|89328463533|Tokyo;Japan|1602727478000|3de2:1164:958a:e086:9dca:65cb:8a76:692b
+Loading data into a data warehouse|success|89328463534|Florida;USA|1607016086000|8079:2c06:5f42:79f:ed34:4cd0:6189:c1a9
+Extracting data from various sources|failed|89328463535|California;USA|1601798884000|a95d:3f9a:d36a:c3d7:f749:7a45:f40e:fdca
+Transforming data into a unified format|success|89328463536|Ontario;Canada|1600873654000|a75:b887:d02d:c7e4:bfee:830a:e7fb:e970
+Extracting data from various sources|-|89328463537|Queensland;Australia|1605308916000|730a:74b4:cefe:60a:65b4:c024:b7ce:35c4
+Data governance|failed|89328463538|Tokyo;Japan|1587539963000|52d:4f74:ab5f:8a92:14a3:7bec:c56f:786d
+Transforming data into a unified format|failed|89328463539|Paris;France|1597676806000|7e37:1b8d:19d6:3552:815a:decb:6899:b30b
+Transforming data into a unified format|failed|89328463540|Texas;USA|1591284566000|4f10:ac2e:eff1:292a:982b:8ed7:d82c:d605
+Extracting data from various sources|success|89328463541|Ontario;Canada|1593320767000|6222:683f:1bd0:d94:a68e:1663:4b98:2c76
+Data governance|success|89328463542|Queensland;Australia|1595569846000|ce75:6e62:67e7:78a8:d43e:63bd:daf9:243f
+Optimizing database performance|success|89328463543|Paris;France|1592393975000|63fb:ea24:b02b:e368:a424:3e07:26bd:f745
+Data integration|success|89328463544|Queensland;Australia|1590660571000|5008:92b8:5fad:eeaf:ac82:4d30:5106:b32e
+Designing and implementing data models|success|89328463545|Texas;USA|1592854569000|d4df:27ce:d11:314c:14fc:83be:8b53:95e1
+Extracting data from various sources|success|89328463546|Tokyo;Japan|1588019429000|8c3:db6c:b70a:4086:9b5e:ed48:d324:383b
+Data governance|failed|89328463547|Ontario;Canada|1601788727000|3a40:a149:33b7:9101:1dbf:b685:94d6:454c
+Data integration|success|89328463548|Ontario;Canada|1592907531000|d62:d41f:8d8f:7a8:ac74:d9c5:9e4c:cdd8
+Transforming data into a unified format|success|89328463549|California;USA|1588896297000|22ac:f16e:b05a:b256:be1f:1393:ec28:8e5f
+Data quality assurance|success|89328463550|Ontario;Canada|1603283338000|b6dc:4114:7724:a363:f528:cdab:9c4e:cc94
+Data governance|success|89328463551|Paris;France|1587144161000|76e8:4e00:cd1b:7e0f:a48:14c9:4dc8:3f75
+Data quality assurance|success|89328463552|Paris;France|1587682435000|7212:222b:45e1:3bf6:675d:f3bc:7a47:52c3
+Optimizing database performance|success|89328463553|Texas;USA|1589871001000|501a:40b3:98ab:1191:6e80:47cd:83ef:5378
+Data quality assurance|success|89328463554|New York;USA|1607135947000|e5a1:6234:52cb:e230:b67:9d21:2116:7438
+Data quality assurance|-|89328463555|Ontario;Canada|1597312238000|cf02:f6f7:d6ac:9bdb:bce6:299f:6118:a00e
+Data quality assurance|success|89328463556|Queensland;Australia|1596799275000|48da:eb41:d135:7ef9:1633:68c3:ec38:a810
+Data quality assurance|success|89328463557|Queensland;Australia|1591722545000|92e6:a918:5d5a:f41b:13db:1263:dadb:36b9
+Data governance|-|89328463558|Paris;France|1593296307000|1d42:51ec:30da:436f:8036:b74d:186:349f
+Optimizing database performance|success|89328463559|New York;USA|1596277806000|80b6:ed63:9bd0:9624:7b2c:3be6:7ce0:bbab
+Extracting data from various sources|success|89328463560|New York;USA|1601823356000|80fb:e0c1:706e:c1b4:5e43:dac6:69d8:daf6
+Optimizing database performance|success|89328463561|Texas;USA|1593631329000|f0a:c860:31fe:aa94:bdcf:4fb9:3e84:ba13
+Designing and implementing data models|success|89328463562|Texas;USA|1587767305000|1c48:d689:b5bf:b490:cac2:f448:a2f5:800f
+Loading data into a data warehouse|success|89328463563|Queensland;Australia|1602973049000|2811:3a17:d0fa:f5b4:6369:6943:1be5:3e28
+Data quality assurance|failed|89328463564|Florida;USA|1592594909000|b1b6:c737:dc45:16e4:2a0d:d6ac:5aa:ea4b
+Data quality assurance|success|89328463565|Ontario;Canada|1602268475000|b8d8:df85:1baa:48e:f904:636f:78ad:2c32
+Building data pipelines|failed|89328463566|Florida;USA|1590339183000|d15a:59c8:ec68:61bf:19ec:5d75:2bc1:361f
+Data integration|success|89328463567|Paris;France|1600787771000|3f18:86f4:e979:ca72:2674:5b59:e004:7677
+Data governance|success|89328463568|Florida;USA|1604080974000|53bd:c073:56f7:ba2c:4e7e:3f06:9e56:373
+Extracting data from various sources|-|89328463569|Paris;France|1595579706000|3d94:7432:4d0c:6fa:bc85:c2b7:6213:1c1a
+Transforming data into a unified format|success|89328463570|Texas;USA|1591927109000|7c4:f832:7b51:9cc0:5b13:e0af:f498:aec1
+Extracting data from various sources|success|89328463571|Florida;USA|1594907997000|b4d6:e3cc:eb62:a9fc:55e0:cd5c:4d83:8674
+Data governance|success|89328463572|New York;USA|1586592582000|9553:4ab9:6ca2:d260:ecb4:f035:f7f2:8941
+Data integration|success|89328463573|New York;USA|1597549971000|3a7:5c6f:a477:2b76:2d06:77e9:5892:10d3
+Loading data into a data warehouse|-|89328463574|Queensland;Australia|1605543128000|c100:1f7a:9980:bc1a:7e1a:61c0:ad45:4448
+Extracting data from various sources|success|89328463575|New York;USA|1586978137000|ca1e:7132:a6d0:cadd:dd0d:5d8f:6e54:2d18
+Loading data into a data warehouse|success|89328463576|Texas;USA|1596881680000|9e76:b33f:d856:256e:1d1:675c:8efd:4a8
+Extracting data from various sources|success|89328463577|Queensland;Australia|1603199937000|3432:8c97:65b7:898c:2de0:5014:e92a:3355
+Extracting data from various sources|success|89328463578|Paris;France|1593391035000|73de:c6ce:85a8:765a:545e:3211:ab58:b4e2
+Extracting data from various sources|failed|89328463579|Ontario;Canada|1592498873000|a9c3:7485:9647:6ec5:701f:59b1:6cc4:8116
+Optimizing database performance|failed|89328463580|California;USA|1589546671000|a9c3:2127:99d7:3382:fd54:2b0d:1238:afad
+Optimizing database performance|success|89328463581|Tokyo;Japan|1598507283000|6fc:e149:a9ee:72b7:ffe5:784b:6ccb:4a91
+Data governance|success|89328463582|Florida;USA|1598587575000|85b9:1b0d:6702:d1:9409:5688:b48d:895e
+Data integration|failed|89328463583|New York;USA|1587913724000|bfcb:95ea:609c:ed04:a3f4:da3b:1382:a0cf
+Transforming data into a unified format|success|89328463584|Queensland;Australia|1604267556000|5267:f79a:96f0:9241:8d8d:db6f:eb42:c93e
+Transforming data into a unified format|success|89328463585|Texas;USA|1604139578000|5b32:5d2b:6f28:9d86:895f:3fc2:ae67:278c
+Transforming data into a unified format|success|89328463586|Tokyo;Japan|1604299613000|6ecc:9368:90c:b4ee:8c6b:38da:9d9c:ebe2
+Data quality assurance|failed|89328463587|Paris;France|1596234942000|7582:eef6:45c:ead3:b68d:7844:adb2:18a2
+Data governance|success|89328463588|Queensland;Australia|1585946188000|8b6:396e:7626:9766:2d11:b281:a0d6:c34a
+Data governance|failed|89328463589|New York;USA|1585715012000|b465:368e:f6ce:f133:207b:a2c4:bbbd:2eda
+Loading data into a data warehouse|success|89328463590|New York;USA|1593470730000|ff1b:9545:2ab1:66a6:825a:df34:a5ee:8f47
+Data governance|failed|89328463591|Florida;USA|1588552015000|4c41:ebb3:95a2:2455:e2d2:caab:22d2:a551
+Data governance|success|89328463592|Queensland;Australia|1586566066000|80b2:40d6:fcd8:92af:10be:f6d2:2e70:43ff
+Extracting data from various sources|success|89328463593|New York;USA|1602448376000|3ee0:ac:6704:c165:6c9c:5232:23b5:fdae
+Data integration|success|89328463594|Texas;USA|1589618974000|3235:8ff9:67ba:515b:2990:fb6c:b6f1:d139
+Extracting data from various sources|success|89328463595|Queensland;Australia|1605944963000|f10d:e899:8a8e:2cec:316d:433d:3516:1f84
+Data integration|success|89328463596|Paris;France|1602459042000|40e8:999d:cd5c:c19f:5f46:b831:1c1e:e5e4
+Data quality assurance|success|89328463597|Ontario;Canada|1604703046000|38b6:33dd:2bce:21e9:7353:3dab:e6c1:7be4
+Designing and implementing data models|success|89328463598|Ontario;Canada|1592516955000|7618:619f:e246:32c2:53c1:b166:9b68:810a
+Data integration|success|89328463599|Tokyo;Japan|1599628971000|d329:2612:1bcd:357c:a759:c33e:1c64:92e9
+Designing and implementing data models|success|89328463600|Queensland;Australia|1588345641000|c6c2:2b69:f833:4ddd:b326:e9cc:8f28:53fa
+Extracting data from various sources|success|89328463601|Tokyo;Japan|1599655865000|106c:1c94:9d9f:942e:1682:4c8a:9037:bcae
+Data governance|success|89328463602|Ontario;Canada|1599464646000|9e8a:6280:6436:a282:5bdf:7d2f:6dbc:25be
+Extracting data from various sources|success|89328463603|Queensland;Australia|1599281035000|afbb:b6f5:f0f4:9aa5:edc7:f4ff:c98e:eae8
+Data governance|success|89328463604|Florida;USA|1595586395000|172:33a6:9a52:8024:3ef5:7c06:698:e8dd
+Data governance|success|89328463605|Paris;France|1602883467000|7d04:8c31:a8b1:945c:5cc5:9840:f59e:69a3
+Data quality assurance|-|89328463606|Texas;USA|1585893740000|ab93:8433:8959:bf13:e03b:2fbd:ac78:ca7b
+Designing and implementing data models|success|89328463607|New York;USA|1601052200000|a982:21c7:32:e8e6:e40e:24d9:fc3f:ed1c
+Data integration|success|89328463608|Ontario;Canada|1593912705000|c60a:e241:9999:bd77:a53b:2a97:2ab7:d4de
+Data quality assurance|success|89328463609|New York;USA|1597093753000|e213:8755:6e97:a12a:76b1:598e:59ce:b80c
+Data integration|failed|89328463610|New York;USA|1598381857000|6185:52be:4c86:deb2:cc1:54aa:8881:eb4
+Extracting data from various sources|failed|89328463611|Ontario;Canada|1598546863000|febe:ff6:e098:2245:b9ad:9963:db30:fd49
+Optimizing database performance|-|89328463612|Florida;USA|1602825369000|41cf:d957:e026:37d1:78e1:daaf:e5ca:b1a6
+Data integration|success|89328463613|Paris;France|1603799595000|52e0:8024:304d:4511:e526:aa66:fa50:5c7b
+Designing and implementing data models|-|89328463614|Paris;France|1590905132000|413e:b208:41cf:cd5:120d:b9c:d6c:f492
+Designing and implementing data models|success|89328463615|California;USA|1589205561000|efa7:3f72:6b75:6a52:7ab5:5868:dc6:3d13
+Loading data into a data warehouse|success|89328463616|Florida;USA|1595088252000|2ba:b9ea:f31d:1d74:5f73:ecbd:3b1d:72d0
+Data governance|success|89328463617|Queensland;Australia|1596700737000|1751:eafe:2db7:2e1:9bee:bc6f:fa93:50d3
+Designing and implementing data models|success|89328463618|Tokyo;Japan|1606647015000|1c9c:7f5f:74d:e206:8071:6b29:3e97:5ced
+Data governance|success|89328463619|Ontario;Canada|1598976393000|65aa:83d1:8f02:91b9:2a32:5f1c:7dc2:6828
+Extracting data from various sources|success|89328463620|Texas;USA|1600191774000|3001:7e5a:ea40:699a:55f3:d8ed:6179:36b6
+Data integration|success|89328463621|New York;USA|1604568203000|aa88:829:a08f:84a9:87c0:8bcb:d71:dca1
+Transforming data into a unified format|success|89328463622|Ontario;Canada|1586863537000|bf17:9758:bc23:fa47:11b1:f316:887f:5a62
+Data quality assurance|success|89328463623|New York;USA|1601480983000|9e45:994b:7a7d:ef2e:684f:3b06:c8d6:76cc
+Loading data into a data warehouse|success|89328463624|Tokyo;Japan|1593757683000|d65d:390a:cdd3:762b:da5f:f773:8012:1283
+Optimizing database performance|success|89328463625|California;USA|1591739671000|7c0f:2f4e:db70:84a1:456:2d6a:3b9f:427c
+Building data pipelines|success|89328463626|Tokyo;Japan|1604510631000|f026:f696:2efa:98ab:eb98:892d:914:72ad
+Data quality assurance|-|89328463627|Ontario;Canada|1605115927000|3b6b:3dcb:f84c:16f4:d2bc:1247:fb3c:91b2
+Data governance|success|89328463628|California;USA|1604084899000|cd1a:8786:c69b:ff8:e728:e50:8551:dba0
+Data governance|success|89328463629|Texas;USA|1596198086000|54ce:20b9:99ea:c086:5a82:cec5:3c0c:c0e5
+Loading data into a data warehouse|failed|89328463630|Tokyo;Japan|1588180092000|89eb:ae21:b646:eb04:2988:db13:436f:f38a
+Optimizing database performance|success|89328463631|Tokyo;Japan|1602592556000|5b4f:ee7:b9b9:9171:3363:dcdc:9cfc:ffec
+Extracting data from various sources|success|89328463632|Florida;USA|1606737892000|4ac1:3bf2:9a68:ae72:f2f6:2721:7f05:35d6
+Extracting data from various sources|success|89328463633|Ontario;Canada|1605387651000|5527:d760:f630:b3d:b8cb:92b9:8361:6ff7
+Loading data into a data warehouse|success|89328463634|California;USA|1588520381000|f516:afb9:1966:4f55:6660:e9eb:261c:d81b
+Designing and implementing data models|-|89328463635|Florida;USA|1589690623000|18cc:3611:8dca:a21a:4c86:ab42:5215:a6b9
+Optimizing database performance|success|89328463636|Tokyo;Japan|1590048294000|b5b:980e:e114:aa58:ac67:b9a3:c02a:caf2
+Extracting data from various sources|-|89328463637|Tokyo;Japan|1592485979000|d12b:342e:263b:19e7:12c9:798a:5cba:78c0
+Data governance|success|89328463638|Queensland;Australia|1600357094000|c71f:2f9b:b9a:e393:7469:2759:f531:afba
+Data integration|success|89328463639|Queensland;Australia|1602409518000|5262:ff87:6a6:9f7d:46c:6092:ad11:d441
+Extracting data from various sources|success|89328463640|California;USA|1592693432000|ac2:c31f:9f83:3b56:56bb:7ef6:bd49:62d3
+Loading data into a data warehouse|success|89328463641|Ontario;Canada|1594792709000|20a:e888:de3a:8d71:fdab:dede:dd6:855a
+Designing and implementing data models|success|89328463642|Queensland;Australia|1591420663000|cc1a:5f68:2445:7c73:59e:4474:6066:c4ae
+Loading data into a data warehouse|success|89328463643|New York;USA|1591553964000|fdd8:bfbc:6dbf:3abe:93ec:7e8f:10c8:d226
+Transforming data into a unified format|success|89328463644|Texas;USA|1596132692000|a0c7:bd76:37b6:a7d3:25dc:1c6d:379d:b0f2
+Data quality assurance|success|89328463645|Paris;France|1607178752000|dcdb:b6a5:33f8:66e6:f68c:8221:671d:4f03
+Transforming data into a unified format|success|89328463646|Tokyo;Japan|1602945958000|733d:85ed:4704:4122:718:18c7:3a62:6f71
+Transforming data into a unified format|-|89328463647|Tokyo;Japan|1586709213000|fb2f:974c:f287:85be:eea9:f1ec:f85e:8c68
+Extracting data from various sources|failed|89328463648|New York;USA|1596880689000|4034:6240:4c8b:e2b3:73f1:59f1:b6a6:8606
+Extracting data from various sources|success|89328463649|Texas;USA|1585837341000|9f64:9c46:6c06:d4d4:5826:e259:5065:759d
+Extracting data from various sources|success|89328463650|New York;USA|1604984546000|826f:940e:4d74:e04c:3687:61d0:ae44:2b9a
+Loading data into a data warehouse|success|89328463651|Texas;USA|1600795604000|c1c3:4bcf:591b:ad1:ca84:1851:e818:66ea
+Data quality assurance|success|89328463652|Florida;USA|1606359952000|572e:4225:285b:f134:e54d:9fc:d503:ccae
+Loading data into a data warehouse|-|89328463653|Tokyo;Japan|1586634000000|55c:bca:497a:a6e9:e3d5:e454:e858:7ee
+Loading data into a data warehouse|success|89328463654|Ontario;Canada|1589456115000|273f:d07:78be:70b2:abf5:6974:7df5:314e
+Optimizing database performance|success|89328463655|New York;USA|1605486741000|7fa9:21fa:1956:4b50:4e24:d7a5:22b5:1b81
+Extracting data from various sources|success|89328463656|Ontario;Canada|1592051104000|c174:83e9:7a64:4a14:afe5:3e16:d600:5afa
+Optimizing database performance|success|89328463657|Texas;USA|1607326291000|b86d:a1f4:27bf:504:5025:1792:568b:555b
+Extracting data from various sources|failed|89328463658|Tokyo;Japan|1586128467000|d088:f493:111e:7557:1433:23b4:6bc4:b6bf
+Extracting data from various sources|success|89328463659|Paris;France|1588249523000|9384:eaee:4434:5902:5513:f879:a294:b888
+Building data pipelines|success|89328463660|Paris;France|1588723568000|b1f1:952:3fc0:5c18:8c09:a9d5:c50e:4c5a
+Extracting data from various sources|success|89328463661|Paris;France|1603920065000|9024:e471:17ec:e092:208a:a083:6387:9c2c
+Extracting data from various sources|success|89328463662|Texas;USA|1587853849000|17b5:61ba:2f78:7da7:2917:38b3:560c:9950
+Optimizing database performance|success|89328463663|New York;USA|1596870536000|1d09:3582:cddd:4943:cf42:2628:4106:c7d3
+Loading data into a data warehouse|success|89328463664|Texas;USA|1598151059000|e603:85ab:9755:c3d9:7000:cbb0:33c2:97c0
+Data quality assurance|-|89328463665|Florida;USA|1601174989000|c409:d1a8:5209:7489:66eb:8918:17ff:f436
+Building data pipelines|success|89328463666|Tokyo;Japan|1601301400000|fe28:43c4:405c:cc6:80e6:771:9add:9a70
+Data quality assurance|success|89328463667|Tokyo;Japan|1592938691000|1e1:ee72:93f6:dc3d:7795:133d:cf6f:1134
+Data quality assurance|success|89328463668|Paris;France|1599932869000|ba84:61eb:614a:43ee:e:f356:c17b:8fb1
+Loading data into a data warehouse|success|89328463669|New York;USA|1603670449000|af21:f2cd:6516:894:3c44:bc03:f433:134
+Loading data into a data warehouse|success|89328463670|Texas;USA|1586918179000|6ca2:a9e3:ad0e:ab37:b6b:e730:151d:fc5e
+Data governance|-|89328463671|California;USA|1587462206000|3897:e12d:69cd:5b49:cf6f:732c:ed58:65c4
+Extracting data from various sources|success|89328463672|New York;USA|1595385582000|9dcb:a790:4dfe:314d:55a2:6d6:e321:946f
+Data quality assurance|success|89328463673|Florida;USA|1600444274000|78c4:f53b:38ce:a89b:8a72:e70b:49a2:7b19
+Designing and implementing data models|-|89328463674|Ontario;Canada|1596804793000|995:6a6c:2535:9c3a:a69c:94af:3b7:3da
+Extracting data from various sources|success|89328463675|Tokyo;Japan|1587667846000|3f0e:ec18:482d:3c1e:c60e:3331:d1df:e08d
+Data integration|success|89328463676|Tokyo;Japan|1595896841000|18f5:7fc9:9977:50c:3c8d:e214:e711:8ca9
+Building data pipelines|success|89328463677|Paris;France|1592790527000|525c:b14f:12e2:18e0:633a:795:aff3:a5dd
+Data integration|failed|89328463678|Florida;USA|1595177878000|d021:a800:4cbd:f031:8408:159:f047:c929
+Data quality assurance|success|89328463679|Tokyo;Japan|1595485672000|3d11:3252:d7e3:d436:d523:c04b:94ce:f104
+Designing and implementing data models|success|89328463680|Texas;USA|1591247457000|cfc5:75d:7ab8:da4b:2787:153e:ebed:2626
+Data integration|success|89328463681|Florida;USA|1602134906000|6d90:a802:6eac:17a7:2a4a:a0b9:1770:6ba2
+Data governance|success|89328463682|Ontario;Canada|1600547087000|4ff9:c92e:8922:35cc:c958:28eb:c9eb:38e3
+Data governance|success|89328463683|Tokyo;Japan|1593592592000|7907:cf49:3ff2:57b7:1da8:7917:8a67:86ed
+Data quality assurance|success|89328463684|California;USA|1593546575000|268:68f:1a55:9671:97f9:14da:5218:d412
+Data quality assurance|success|89328463685|Tokyo;Japan|1600283109000|24c2:f0e0:d02b:ae31:1ca0:b106:f9f6:9a9
+Extracting data from various sources|failed|89328463686|Tokyo;Japan|1599412499000|88c1:3921:743f:8a30:b623:3d94:aca6:f26b
+Designing and implementing data models|-|89328463687|Tokyo;Japan|1587084245000|65b9:a968:3915:946d:1874:f86e:e7f6:1b00
+Extracting data from various sources|failed|89328463688|New York;USA|1591525155000|a3d1:d1f3:1b3e:8e4e:e5c7:ed76:b98f:66d5
+Building data pipelines|success|89328463689|Queensland;Australia|1601777022000|4a9d:acea:93c:e4ae:78fd:e7bf:53fc:6906
+Transforming data into a unified format|success|89328463690|Texas;USA|1605215682000|7c57:72e0:43c7:2ad1:398f:3b90:8f33:9d6c
+Loading data into a data warehouse|success|89328463691|Paris;France|1604204574000|6f6c:e655:8e36:6798:a402:2bb2:f3a5:f7e4
+Loading data into a data warehouse|success|89328463692|Ontario;Canada|1602392221000|3433:cd30:f42a:6677:88f3:7da2:bad9:4110
+Extracting data from various sources|success|89328463693|Texas;USA|1593498109000|a06e:11ab:851f:91bc:a6b6:e8f:e337:7145
+Optimizing database performance|success|89328463694|California;USA|1599431356000|1fc7:3833:696d:17b8:e7dd:f1dc:d65f:f685
+Extracting data from various sources|success|89328463695|Texas;USA|1587536238000|85d3:674f:a871:b773:5fad:bcf6:32cb:2f86
+Building data pipelines|success|89328463696|New York;USA|1598245933000|fc56:d331:6ef7:3fe8:49ef:36cb:bab4:c727
+Loading data into a data warehouse|success|89328463697|Florida;USA|1594920445000|a236:ed7b:d520:55d:18d2:5405:b44:9dcf
+Data quality assurance|success|89328463698|Ontario;Canada|1597621577000|e0ab:d63b:14a:74e2:249e:b2d4:16bd:7f09
+Extracting data from various sources|success|89328463699|Florida;USA|1597401883000|c0e7:a799:98e9:f522:f49f:a046:4a81:e7d9
+Transforming data into a unified format|success|89328463700|Paris;France|1595571333000|973a:c36e:e763:5a27:bcd2:a5e9:d86:ee80
+Optimizing database performance|success|89328463701|Queensland;Australia|1587733781000|fea7:9fd6:2f2e:90b9:b96c:6b2e:6464:d3a0
+Data governance|success|89328463702|Queensland;Australia|1590694362000|3aa6:cada:ecaa:a8b0:2549:8012:813f:3892
+Optimizing database performance|success|89328463703|Florida;USA|1591681949000|4b86:15a7:7c32:eb9c:ab2a:d328:7eed:d7c6
+Data integration|-|89328463704|Tokyo;Japan|1600561561000|1fd1:e15:fb5c:ba51:aeaa:3a3a:8f61:4c01
+Extracting data from various sources|success|89328463705|Paris;France|1590879986000|3cda:87da:566f:50ab:1e8a:b70f:d1b2:6e8c
+Building data pipelines|success|89328463706|Queensland;Australia|1590019451000|69af:bfb3:3b0a:f7c2:4a1e:590:426b:95d6
+Designing and implementing data models|success|89328463707|Tokyo;Japan|1587696903000|ddc6:1778:9c39:306f:1fa0:31dc:e2b1:920d
+Data integration|success|89328463708|Paris;France|1606790481000|7dc5:8bcf:a1dc:e95f:2333:51c0:b1c3:da00
+Building data pipelines|failed|89328463709|New York;USA|1601079796000|8f6:384:2c7f:39a2:ef46:a155:f255:86cf
+Designing and implementing data models|success|89328463710|Florida;USA|1593369243000|e73c:b3f:b7c3:5b94:ea97:2373:7e99:8bdc
+Loading data into a data warehouse|success|89328463711|New York;USA|1588907635000|d49c:bde9:b94f:f1cc:fdc0:2892:f8bb:9c0c
+Transforming data into a unified format|success|89328463712|Tokyo;Japan|1591993533000|6db0:afb6:7830:c7a1:ba62:c47a:e54b:d768
+Extracting data from various sources|success|89328463713|Florida;USA|1593310820000|e264:5181:a78c:9eb7:2dc8:85e4:248d:ef76
+Extracting data from various sources|success|89328463714|New York;USA|1599118200000|d8f9:3e17:c870:bad4:e55:6cf1:d12c:f12b
+Transforming data into a unified format|success|89328463715|Florida;USA|1588307189000|b004:2535:f899:c6ea:1f8c:7c06:9061:869f
+Data integration|failed|89328463716|Ontario;Canada|1588258007000|39e4:bb81:a795:5e94:59e5:3715:8cc6:7d6d
+Transforming data into a unified format|success|89328463717|Florida;USA|1602597019000|14c1:a6ab:a2f:d095:4bb5:cb2e:8da9:a389
+Data integration|-|89328463718|Ontario;Canada|1592828895000|6711:7e47:9bfa:373a:2790:16ce:edb7:2604
+Data governance|success|89328463719|Florida;USA|1589756958000|ba9a:77cf:59c0:e7fc:db1d:670f:a800:8040
+Designing and implementing data models|success|89328463720|Tokyo;Japan|1593311543000|5b93:8e26:88c8:8c0f:213e:3cd1:6f48:a0c2
+Building data pipelines|success|89328463721|California;USA|1607677927000|5bbe:2479:d8f5:926b:f7d6:e2c3:d36a:dee
+Optimizing database performance|success|89328463722|New York;USA|1598250238000|cd62:bf3e:8218:acd4:75aa:69c6:2ebf:15ec
+Data integration|success|89328463723|Paris;France|1592975754000|e96e:a755:672a:f7d5:17ad:f389:166:5dba
+Optimizing database performance|success|89328463724|Texas;USA|1604684137000|4847:6eb5:21d3:d1ff:9fb2:8481:80d2:9dbc
+Optimizing database performance|success|89328463725|Queensland;Australia|1602410220000|9734:e037:4351:8b66:5d77:bfbc:f5dc:cc03
+Data quality assurance|success|89328463726|California;USA|1587309587000|cad7:242a:45a:fbed:89ce:d42f:c65f:a98f
+Data integration|failed|89328463727|Queensland;Australia|1587365179000|ef19:ade6:297c:4527:1b75:b9ae:4bd3:48b0
+Building data pipelines|success|89328463728|Texas;USA|1592336096000|48fc:44cb:50fb:dbb3:15c5:55a7:28a3:1d6d
+Data governance|-|89328463729|Paris;France|1604604315000|d1a4:e038:6421:5d67:61a8:a723:ab8:a08e
+Loading data into a data warehouse|success|89328463730|Ontario;Canada|1588841077000|ad3:b519:21db:da56:4b3d:e616:5842:ea61
+Data governance|success|89328463731|Queensland;Australia|1598021529000|3995:1005:10d7:78b9:d56a:b415:8550:bc4e
+Data quality assurance|success|89328463732|New York;USA|1588460866000|31f6:8b4a:b845:d0fb:58f0:ca09:f6bc:dda7
+Extracting data from various sources|success|89328463733|Florida;USA|1595595863000|a60a:d8c1:2284:cd0e:87ba:487:9ddd:9058
+Data governance|success|89328463734|Ontario;Canada|1600535626000|808a:b22a:6384:f3b2:bdb7:75b2:a9d1:e61b
+Optimizing database performance|success|89328463735|Tokyo;Japan|1596902360000|f921:b090:a400:35a0:b475:e70a:f775:ef2b
+Data governance|success|89328463736|Tokyo;Japan|1592156686000|e33d:d450:5c7a:a8ac:2771:75b0:8b18:76e
+Extracting data from various sources|success|89328463737|New York;USA|1591817036000|bd1a:940:d17e:6ecf:b4f1:c991:112:3095
+Building data pipelines|success|89328463738|Tokyo;Japan|1601644232000|5423:209f:39eb:de2b:899d:2eff:b2c7:1b34
+Data quality assurance|success|89328463739|Tokyo;Japan|1587102079000|71f9:ed:9638:86cf:159b:b912:f20c:a1f9
+Extracting data from various sources|failed|89328463740|Ontario;Canada|1590241378000|1655:8067:9c99:30e0:fde:9ec8:6ff2:d2ec
+Optimizing database performance|success|89328463741|Ontario;Canada|1596779991000|dccf:543:a165:52a9:cdcb:b4ea:a1ab:da19
+Extracting data from various sources|success|89328463742|Queensland;Australia|1606968335000|b0fd:8646:2880:604e:f83:bf0d:683a:c0ae
+Loading data into a data warehouse|success|89328463743|Florida;USA|1593231280000|38e0:5ba9:d87c:ed13:9307:f5ad:24f:37a4
+Data governance|success|89328463744|Texas;USA|1598091148000|c7aa:4feb:2511:8dbc:770d:411f:94c6:1413
+Data quality assurance|success|89328463745|Paris;France|1606631866000|8208:a22f:cb1e:8e31:9459:7fa6:1ec5:721a
+Data integration|success|89328463746|New York;USA|1595707232000|8652:e7b8:f917:ef92:2fa5:6622:589d:806d
+Data integration|-|89328463747|California;USA|1590907133000|11ab:54e:eca0:df68:e88:30a0:5eef:e421
+Extracting data from various sources|success|89328463748|New York;USA|1604475798000|b92b:4e2:9ef6:f89f:8b93:fc8e:500d:b1fe
+Building data pipelines|failed|89328463749|Queensland;Australia|1599243486000|894:c218:1c66:1560:c48b:4a87:1f84:5036
+Building data pipelines|failed|89328463750|Tokyo;Japan|1603596455000|7a7a:52ed:8db8:3117:53b:c260:d02b:a42
+Building data pipelines|success|89328463751|New York;USA|1605944085000|1d91:dbae:9db:1d84:39ea:154f:a5c4:2ac9
+Data quality assurance|success|89328463752|California;USA|1588765507000|ad8f:32d2:a647:f251:1aeb:80a0:b9f:df52
+Building data pipelines|success|89328463753|Tokyo;Japan|1605484807000|ffc4:7554:e1a1:919b:35c4:eef:2302:33c8
+Extracting data from various sources|success|89328463754|Queensland;Australia|1599662941000|4a83:41f2:56d0:726d:8c09:d7e5:927f:b05b
+Designing and implementing data models|success|89328463755|Florida;USA|1606096942000|939d:fda0:fc0:7e8:8727:bd46:b13b:f25c
+Data quality assurance|success|89328463756|Tokyo;Japan|1607244596000|6ba3:ede0:bdb8:1f84:3ce9:a761:9553:1b45
+Extracting data from various sources|success|89328463757|Tokyo;Japan|1599925251000|6180:6955:64ff:9378:223a:b976:1c46:1b94
+Designing and implementing data models|success|89328463758|California;USA|1597918348000|75b7:2e0d:49ce:56ab:bc17:b5f9:2237:2be3
+Transforming data into a unified format|success|89328463759|Queensland;Australia|1601545253000|15bd:4b1b:49a6:79d7:3453:4081:ec25:d092
+Data quality assurance|success|89328463760|Texas;USA|1602238610000|cc03:ca75:d8cd:bf7d:3173:3762:cd58:af31
+Transforming data into a unified format|-|89328463761|Paris;France|1599393210000|c04f:5fb8:7a70:b943:48fa:7e58:24c5:982
+Designing and implementing data models|success|89328463762|Texas;USA|1604578668000|3bd1:3a29:be50:3107:ee7:d922:6b59:f86d
+Data integration|success|89328463763|New York;USA|1589848225000|707e:5af2:fdcf:1ff0:80db:11f:356c:ec9c
+Extracting data from various sources|failed|89328463764|New York;USA|1592674360000|2e09:906e:af48:c457:7a:5ba3:558:c44c
+Data integration|success|89328463765|New York;USA|1602055861000|e7aa:9eac:29c:e2cf:6097:3c0e:e67a:e7c6
+Extracting data from various sources|failed|89328463766|Tokyo;Japan|1607946333000|5ad8:cb42:13c4:71cd:a117:e40d:9274:45ea
+Loading data into a data warehouse|success|89328463767|Texas;USA|1597768673000|d1c2:a5b0:f9bd:186c:9555:52cc:a774:48d3
+Data integration|failed|89328463768|Paris;France|1593523364000|def2:368f:6c2a:c217:62c3:dda7:f699:ee7b
+Data integration|success|89328463769|Ontario;Canada|1588987076000|7d9c:29b3:da0b:d7f8:1d77:fe15:a2d9:6a8f
+Transforming data into a unified format|success|89328463770|Florida;USA|1588879018000|d772:7651:cc7e:960d:fdbb:c875:207c:5f9e
+Data integration|success|89328463771|Queensland;Australia|1593092446000|9b87:99b:d15a:9ffb:7e57:fa7b:ec0b:e1c1
+Loading data into a data warehouse|success|89328463772|California;USA|1595548324000|549f:d14e:9559:5968:7929:548e:4e59:a79b
+Data integration|success|89328463773|Ontario;Canada|1599602534000|6e41:61fc:619d:ca09:9fc3:3b5a:9b6c:714f
+Designing and implementing data models|failed|89328463774|Queensland;Australia|1596950172000|4eea:8703:a676:ca59:f86c:33d9:9095:2c58
+Loading data into a data warehouse|success|89328463775|Paris;France|1595211008000|9cc3:25d3:f1d1:e00d:f818:d684:c3f9:ca56
+Data quality assurance|success|89328463776|Texas;USA|1591182585000|9fb6:d418:a57a:3f1d:cfcd:c581:3ecc:93bb
+Loading data into a data warehouse|success|89328463777|New York;USA|1588303449000|ae5d:da9b:a345:781e:386a:5bc:d895:7e76
+Building data pipelines|success|89328463778|Ontario;Canada|1598800064000|3e71:9bd1:eeb2:1b12:bc4b:c52a:e18c:eb13
+Building data pipelines|success|89328463779|Paris;France|1592001619000|b8db:c481:befa:6efc:acb4:421f:af64:ff0
+Data governance|success|89328463780|New York;USA|1598966726000|a057:b591:95c2:81bf:1bea:fd42:e2e7:ae78
+Designing and implementing data models|failed|89328463781|Texas;USA|1602644050000|6ece:9ba1:31bd:6a83:3067:5aaa:3109:ba2e
+Loading data into a data warehouse|success|89328463782|Texas;USA|1602644972000|10cf:a8fb:fe33:c17:f781:9f21:7bdb:8348
+Building data pipelines|-|89328463783|Texas;USA|1597724618000|7713:abe4:8f7a:ed50:ccb:fa76:3d32:5c2f
+Transforming data into a unified format|success|89328463784|New York;USA|1602183586000|49ab:f839:9af5:3648:2335:827e:610e:6f7a
+Data integration|failed|89328463785|Tokyo;Japan|1588928888000|eadb:2104:b55e:7cb0:2359:10b6:8105:1b6d
+Data governance|success|89328463786|Ontario;Canada|1591595921000|6646:8102:df0c:7c3a:78d3:e401:529:80b5
+Data integration|success|89328463787|Tokyo;Japan|1601322028000|1d06:fd10:dd50:46e2:d626:41d1:36d0:8a02
+Loading data into a data warehouse|success|89328463788|Texas;USA|1588563313000|6098:da0f:35b9:3004:4292:bc8:c66c:5254
+Data quality assurance|failed|89328463789|Queensland;Australia|1605642946000|dfcb:e176:aede:95be:e8f:72ff:f366:4e07
+Data governance|success|89328463790|Queensland;Australia|1606479501000|e68b:bbc6:33:fb03:bb9f:23bb:ae07:58ce
+Loading data into a data warehouse|success|89328463791|Tokyo;Japan|1606872353000|b941:597:3798:fb3a:99b4:f3ab:34a3:5852
+Loading data into a data warehouse|success|89328463792|Florida;USA|1600967132000|f58e:d721:ca9f:7e37:8f85:16:d3b7:ea12
+Data governance|success|89328463793|Queensland;Australia|1607398989000|e3e4:c38e:8964:5028:81f4:704f:382f:7bdb
+Data quality assurance|failed|89328463794|New York;USA|1588335996000|2dcb:fe6f:dd35:bb6a:236a:da0e:343c:64f7
+Data quality assurance|-|89328463795|California;USA|1596332952000|1bd0:f846:ba1b:d49f:e93a:32a8:6cbf:ae8c
+Loading data into a data warehouse|success|89328463796|Paris;France|1589971356000|a176:e9c5:697c:dc14:9b6c:744b:c599:e3d7
+Building data pipelines|success|89328463797|Queensland;Australia|1605646917000|8e9f:619e:926f:ab1b:9542:199b:b3a7:567e
+Data integration|-|89328463798|Queensland;Australia|1596290560000|769f:4260:abba:22e0:5249:f3e7:194f:a2f5
+Data quality assurance|success|89328463799|Paris;France|1593342469000|758e:aee4:e1fe:da55:bc48:247f:f56c:b10e
+Transforming data into a unified format|success|89328463800|Paris;France|1593166601000|f5bb:b7b6:3001:a81b:d0a6:db2:f717:db94
+Optimizing database performance|success|89328463801|Florida;USA|1586173858000|96b5:ee62:bff0:8300:91a2:e35d:b998:3562
+Optimizing database performance|success|89328463802|New York;USA|1602149137000|d6e:44cf:ee04:efa9:fbf1:25a8:fce7:ba46
+Optimizing database performance|success|89328463803|Queensland;Australia|1588575933000|51f5:b709:48a4:3884:b174:d768:b46d:b8d9
+Transforming data into a unified format|failed|89328463804|New York;USA|1592100922000|ee5b:95ff:2693:52b3:158c:3cea:eab:b80b
+Data governance|-|89328463805|Ontario;Canada|1603260984000|700b:cb02:db46:d889:c4f3:28cf:58a7:c71f
+Data integration|-|89328463806|New York;USA|1597621841000|aa68:29fb:b2a4:b2ea:2176:2e4d:db3a:a277
+Transforming data into a unified format|failed|89328463807|Texas;USA|1592202476000|9a44:7d63:c7b4:2ffb:77bb:b4e3:7905:1115
+Extracting data from various sources|success|89328463808|Tokyo;Japan|1590325930000|f422:fdb2:3342:133e:1097:78e0:4eb:856b
+Extracting data from various sources|success|89328463809|Paris;France|1605488420000|cd0e:d933:bf22:7ccb:dfa0:c6f1:bf58:f4a0
+Building data pipelines|success|89328463810|Texas;USA|1592074072000|59bd:2cdc:f558:d8e4:dd58:715a:54c9:6d9f
+Optimizing database performance|-|89328463811|Paris;France|1594523027000|980e:7903:7791:4ee3:36a8:8042:b388:8bc3
+Extracting data from various sources|success|89328463812|Texas;USA|1591756627000|6acd:5e4a:6d5d:aad8:797f:ecff:c5b7:7216
+Optimizing database performance|success|89328463813|Paris;France|1587332654000|9ce8:894b:7643:6478:bcbc:3ec3:f7a0:9732
+Loading data into a data warehouse|success|89328463814|Ontario;Canada|1592743401000|5089:b56b:3f84:5588:7cf:e843:b381:cb7c
+Data quality assurance|-|89328463815|New York;USA|1605411321000|d007:24b7:f684:a52c:6bfd:262b:7abb:21ed
+Building data pipelines|success|89328463816|Paris;France|1596309573000|7817:e17e:ae56:bf78:564b:cc45:5739:885f
+Extracting data from various sources|success|89328463817|Tokyo;Japan|1591947391000|cf63:b20d:42db:e7be:cae1:e4ff:632a:5528
+Optimizing database performance|success|89328463818|California;USA|1604173471000|61d3:fdd2:a442:29f7:fd12:1810:f3cd:28c3
+Data governance|success|89328463819|New York;USA|1601543459000|d255:a486:e586:e203:8fe2:76ae:f27f:936
+Extracting data from various sources|failed|89328463820|Texas;USA|1595787953000|8bc0:8aa9:21f4:1700:fef0:dfc7:4c99:f425
+Extracting data from various sources|success|89328463821|Ontario;Canada|1604330638000|56d0:77d7:19a9:cfa:b461:b05c:4e85:59b9
+Transforming data into a unified format|success|89328463822|Florida;USA|1597251534000|8d64:fe6:c99e:30d0:532d:788a:d7d5:5a4d
+Building data pipelines|-|89328463823|Texas;USA|1588735481000|f489:dd57:cbc:1ce9:b863:311b:1a8b:bf2a
+Building data pipelines|success|89328463824|Paris;France|1599341717000|1fec:d7c6:75dc:5fde:d03:3b72:41ac:2913
+Data governance|success|89328463825|New York;USA|1602303520000|e857:8b98:6d35:92be:aa75:fa30:15ef:20ff
+Loading data into a data warehouse|success|89328463826|Paris;France|1597250066000|2428:e96f:251c:dfa5:3774:8348:7ed3:f94f
+Data quality assurance|success|89328463827|Ontario;Canada|1592966083000|e79c:d8f:634:4042:b42:eaf9:d2be:1d8
+Data integration|success|89328463828|Tokyo;Japan|1596022145000|5818:e59c:b463:2acd:2d6b:59d2:a20:72a1
+Data governance|success|89328463829|Tokyo;Japan|1591697101000|9ae6:558d:f3a6:694f:e94c:3c07:be65:c551
+Transforming data into a unified format|-|89328463830|Texas;USA|1599199009000|1506:def5:7f1:5b4d:92b5:3ecf:751f:dd27
+Data quality assurance|success|89328463831|Florida;USA|1603141389000|a736:988b:72b5:978c:c8e9:8045:93d3:1236
+Data governance|success|89328463832|Tokyo;Japan|1592928941000|2593:1e9f:445e:3e8b:66ed:ea7d:e752:d04
+Optimizing database performance|success|89328463833|Florida;USA|1593859352000|ab78:a3b7:d367:244b:3b13:b440:955d:ce67
+Building data pipelines|failed|89328463834|California;USA|1598582212000|7222:589b:40f9:deb7:e43e:7890:af80:b2f2
+Extracting data from various sources|success|89328463835|Ontario;Canada|1597014013000|4c8d:e108:60b9:1d08:c4b0:2aa9:b4a7:678b
+Designing and implementing data models|success|89328463836|California;USA|1601362134000|194:f41b:1a0c:d256:4f64:9fd4:bafb:71e8
+Data quality assurance|success|89328463837|Florida;USA|1596060684000|b2f:fdce:164b:d422:688c:30b7:aea6:1e21
+Data quality assurance|success|89328463838|Florida;USA|1606926782000|9c68:5ccf:3ce5:7719:efce:9907:b4ce:5f77
+Building data pipelines|-|89328463839|New York;USA|1604543401000|875e:e184:2156:db4a:3a8:12ad:7f2b:543d
+Transforming data into a unified format|success|89328463840|Paris;France|1597444731000|deef:2d77:b384:32d3:e416:bffc:2fdb:2bb4
+Transforming data into a unified format|success|89328463841|Tokyo;Japan|1597852762000|722c:3ed6:6f85:7d9c:78de:5b70:3ca1:1bf8
+Transforming data into a unified format|success|89328463842|Tokyo;Japan|1601069006000|e282:e0b:4e5b:1f41:ee61:937c:1973:11fc
+Loading data into a data warehouse|-|89328463843|Ontario;Canada|1590478850000|64c9:9e74:f26:4050:78cc:406c:9338:f21e
+Data integration|success|89328463844|Tokyo;Japan|1592822111000|403c:d6e:8ddb:8826:8f0c:6cd5:c16:cbb1
+Data integration|success|89328463845|Queensland;Australia|1607831823000|b395:15eb:d86f:db6:d43:a09:79f:8cbf
+Optimizing database performance|success|89328463846|Florida;USA|1586563747000|1287:3314:36c7:de13:c744:d13d:2223:ac5f
+Building data pipelines|success|89328463847|New York;USA|1597759516000|d684:e146:fc69:4b7b:2c35:a38a:849e:3820
+Data quality assurance|failed|89328463848|Paris;France|1592159023000|649b:1db5:69cd:2ab5:5a9a:89f0:7bbb:5bf3
+Data quality assurance|success|89328463849|New York;USA|1588880374000|eaf1:8d7:1545:982d:7539:116a:d408:21aa
+Transforming data into a unified format|success|89328463850|Tokyo;Japan|1600964756000|5c31:fc5:5d0f:d41e:7690:5661:fa1e:74d8
+Loading data into a data warehouse|success|89328463851|Paris;France|1604176124000|6c8e:4ab5:a703:3652:216e:7ebc:8385:b692
+Extracting data from various sources|success|89328463852|Queensland;Australia|1607804854000|6539:47e8:fb52:8e84:53a4:2cea:45bb:6cfb
+Building data pipelines|success|89328463853|Florida;USA|1600221124000|2353:e79e:6ff:84ff:52b6:5b33:29e7:e6c8
+Data integration|-|89328463854|Florida;USA|1593366884000|c0ae:d18:aa6b:2f47:5a14:7ec7:cdeb:536e
+Extracting data from various sources|-|89328463855|Paris;France|1592983325000|8f23:b114:d734:3a27:6d32:2f02:ca22:dcb3
+Data quality assurance|success|89328463856|New York;USA|1595239446000|34bc:9572:bfbc:1c6f:3c0b:8cae:1b59:5ddf
+Building data pipelines|success|89328463857|Queensland;Australia|1607361476000|ed81:1a3b:3297:4319:d46d:5648:fdbd:d123
+Extracting data from various sources|success|89328463858|Queensland;Australia|1604349902000|7ada:d67c:56ff:48b3:97b8:40b6:1d7b:3890
+Loading data into a data warehouse|failed|89328463859|Texas;USA|1591993754000|f607:1894:6ab:c2f7:36ea:5951:e600:bac1
+Data integration|success|89328463860|Florida;USA|1602530570000|64ec:c9ec:2f7a:2870:cd25:4edb:7fe6:bd2
+Data governance|success|89328463861|California;USA|1595669111000|35c7:903f:7d66:8ce0:c8da:611d:6e23:8f03
+Transforming data into a unified format|success|89328463862|California;USA|1595607424000|79fd:6a3:ddd4:e607:d407:4fac:8c11:b68f
+Loading data into a data warehouse|failed|89328463863|California;USA|1602051141000|106e:7931:53db:6648:3749:9558:c369:e709
+Loading data into a data warehouse|failed|89328463864|Ontario;Canada|1591456457000|a270:485e:eaa4:7ac3:aa87:b27d:1cd8:4111
+Data governance|success|89328463865|Ontario;Canada|1601035931000|bfce:9606:ac0a:b3e4:29bf:a6cc:efbe:4204
+Optimizing database performance|failed|89328463866|New York;USA|1593180975000|a44f:c567:f4d8:3b77:416a:3670:a012:b273
+Building data pipelines|success|89328463867|Tokyo;Japan|1593484730000|d3b7:b414:33c8:ac93:e965:88ac:1527:7892
+Transforming data into a unified format|-|89328463868|Florida;USA|1587192893000|e59b:e7fa:d03d:a2db:2aea:db86:baf6:fbe2
+Extracting data from various sources|success|89328463869|New York;USA|1594991414000|e0f3:f8de:c2e8:707:a180:7735:c6bf:7f9
+Extracting data from various sources|failed|89328463870|Ontario;Canada|1589243832000|72a5:2039:25b6:4d48:9409:adc8:76f2:4e9a
+Transforming data into a unified format|success|89328463871|Florida;USA|1586524912000|35aa:216e:3b:6d01:e86b:629c:cb8f:263a
+Building data pipelines|success|89328463872|Florida;USA|1601272181000|5e5d:eef6:bd5a:6426:909a:3d30:1fd4:418e
+Data governance|success|89328463873|California;USA|1599264178000|8952:e657:2f77:84bd:2aa6:908b:9c94:1215
+Optimizing database performance|success|89328463874|Ontario;Canada|1602542422000|ef00:3004:e171:9bcd:b7cd:e39c:e23e:c1c3
+Building data pipelines|success|89328463875|Tokyo;Japan|1600122921000|adfe:5ac3:f152:b786:2424:e67a:4840:275d
+Extracting data from various sources|success|89328463876|California;USA|1605058053000|98ff:a9bb:f1f4:305c:8062:8413:2dd0:bf64
+Extracting data from various sources|failed|89328463877|New York;USA|1598346598000|6f3e:b427:ed74:90c7:c617:aa9c:819c:98b6
+Data governance|-|89328463878|Ontario;Canada|1600345834000|d268:d9d3:d42b:c504:7f88:c060:50a9:9d31
+Data integration|success|89328463879|Tokyo;Japan|1593413642000|4131:8c0c:d6f5:fee9:efe3:e36:35b4:36c5
+Data integration|-|89328463880|New York;USA|1586483812000|36e6:e173:b047:77c4:f52f:eca3:f441:3363
+Data governance|success|89328463881|California;USA|1603696909000|123a:56e3:8e46:5abe:4e94:143a:37f:1a39
+Data integration|-|89328463882|New York;USA|1597712878000|381a:cb00:a8de:5302:889d:df50:d41e:a0a9
+Designing and implementing data models|failed|89328463883|Queensland;Australia|1605720476000|5b19:fd63:4d81:edce:901c:b3fe:3a0d:6a65
+Transforming data into a unified format|success|89328463884|Texas;USA|1589449779000|a689:dabc:f72b:72a8:88d1:a76c:2a50:9536
+Loading data into a data warehouse|success|89328463885|Queensland;Australia|1587890462000|6bf8:a59e:594c:b16d:a7a0:336e:979a:9bb2
+Designing and implementing data models|success|89328463886|Florida;USA|1607956392000|f34a:723f:dc8:f082:143a:8c04:549c:673d
+Building data pipelines|success|89328463887|Paris;France|1602290190000|fcb7:4ade:d24c:ba95:de65:9b4c:88fc:aa44
+Loading data into a data warehouse|success|89328463888|Tokyo;Japan|1606420607000|1a08:2b2d:161b:75e2:36a:d85:830a:2075
+Transforming data into a unified format|success|89328463889|Tokyo;Japan|1594864294000|e22c:5edf:47a7:80c4:13a:e721:d037:5fdf
+Optimizing database performance|success|89328463890|New York;USA|1605483708000|54a5:e1c2:266a:bea6:9c94:5255:2431:7dff
+Data quality assurance|success|89328463891|Ontario;Canada|1605176252000|ebe2:b42a:a626:37fb:3b4f:569a:3166:ac26
+Data quality assurance|-|89328463892|Florida;USA|1586232505000|d864:f3be:e381:64dc:dab5:c188:ae68:c3b4
+Data governance|-|89328463893|Tokyo;Japan|1599902360000|45ae:8338:6476:c2b9:915e:c134:1fb0:2171
+Building data pipelines|success|89328463894|Tokyo;Japan|1598787109000|f676:c8ed:ae6:2a8f:5e51:91ef:f312:69b2
+Extracting data from various sources|success|89328463895|Texas;USA|1596832220000|9765:229e:e45c:dc16:4334:41df:f865:522d
+Building data pipelines|success|89328463896|Paris;France|1597579229000|d75:6c31:b33c:ceda:d518:f880:9651:b521
+Loading data into a data warehouse|success|89328463897|Queensland;Australia|1591716750000|e865:32cb:54d7:da7e:2cd0:51db:f75c:f557
+Extracting data from various sources|success|89328463898|Texas;USA|1588842985000|42aa:8a52:4c52:873c:dcc3:1240:e049:dbb9
+Designing and implementing data models|success|89328463899|Florida;USA|1606524345000|46c4:3b21:2d27:59e4:44e2:b262:6a3a:1d9a
+Extracting data from various sources|-|89328463900|Texas;USA|1588112041000|3375:4ae1:e487:135c:be8d:b549:277:a1f6
+Extracting data from various sources|success|89328463901|Florida;USA|1591765459000|c1de:3e2e:7495:bf23:bc8e:9a8e:2f87:6280
+Data integration|success|89328463902|California;USA|1605118638000|6ef8:2699:bde8:24b5:4693:f54:f667:1015
+Loading data into a data warehouse|success|89328463903|New York;USA|1598566533000|c7f0:bb6f:5d7:1908:3c8b:7d0d:2ec0:2f9d
+Building data pipelines|success|89328463904|Tokyo;Japan|1606502078000|6b6b:3139:3d01:b566:f47e:4d93:d4f:6b41
+Extracting data from various sources|success|89328463905|Ontario;Canada|1607065260000|e659:d778:c021:3fcd:d347:6099:52:e669
+Data governance|success|89328463906|Paris;France|1590835285000|e9e4:f46e:d316:149a:e9b5:2415:87b9:a9
+Building data pipelines|failed|89328463907|Paris;France|1595837302000|43ea:deaf:e971:f3a8:e413:c215:c2ca:3782
+Loading data into a data warehouse|success|89328463908|Queensland;Australia|1595224653000|6630:3870:bd2a:458c:cea8:1bfa:6f6c:eb7f
+Transforming data into a unified format|success|89328463909|California;USA|1586611693000|cce3:4e87:8fc5:840c:1c06:fb34:17a3:8de1
+Data governance|success|89328463910|Texas;USA|1603259021000|6dae:2cba:6108:e17c:7930:9500:a0f5:58cb
+Extracting data from various sources|-|89328463911|Florida;USA|1604568585000|a7d7:da47:ca82:7455:6371:ef69:2a7d:7ea3
+Data integration|-|89328463912|Texas;USA|1600747618000|73c8:7d71:6011:277a:fe63:9660:f5f8:1b63
+Loading data into a data warehouse|success|89328463913|Florida;USA|1591975687000|e1f9:1274:f33c:524a:637a:2828:eae2:510a
+Data governance|success|89328463914|New York;USA|1606828229000|6463:ed39:fe:da40:2382:8b22:ce9d:78f8
+Data quality assurance|success|89328463915|Texas;USA|1593411251000|b61e:5c4c:3dd3:4860:e0d8:6216:f3c5:ece9
+Optimizing database performance|success|89328463916|Texas;USA|1603524258000|dbc7:44b:307b:4642:650e:e5b:7056:391f
+Loading data into a data warehouse|success|89328463917|Texas;USA|1598576149000|3596:f8e9:66c4:d8a2:79a3:4fd0:7a7e:4103
+Extracting data from various sources|failed|89328463918|Florida;USA|1605131335000|cec3:913c:a3c:8a52:8273:eb92:d143:8eff
+Extracting data from various sources|-|89328463919|California;USA|1589292635000|91a3:47ba:94ae:ed58:1bed:560e:6ce9:d651
+Data integration|success|89328463920|Queensland;Australia|1597438824000|1417:74f3:a0ef:1f9c:83c4:7022:914e:2ccb
+Loading data into a data warehouse|success|89328463921|Tokyo;Japan|1591710516000|95c3:e952:55ab:93ea:adee:f0d3:49a9:f099
+Extracting data from various sources|success|89328463922|Paris;France|1594043331000|b49b:144e:a0cb:1174:6778:42ab:bd05:e700
+Loading data into a data warehouse|success|89328463923|Florida;USA|1587260379000|ef76:b5c9:14b6:b868:a4af:e285:6ad1:2f77
+Loading data into a data warehouse|success|89328463924|New York;USA|1587906234000|8f6b:9e10:67b2:e604:77ff:cd4c:edeb:7ab6
+Data quality assurance|success|89328463925|Ontario;Canada|1591015739000|f5ae:5ca8:a9dc:b1dc:4c3a:204:212:4817
+Extracting data from various sources|success|89328463926|Florida;USA|1600865123000|1b90:50da:8bf6:791e:994a:8aad:5adc:eb90
+Data integration|success|89328463927|Tokyo;Japan|1593208211000|94c6:b1e7:f243:eaeb:27d8:acd8:944c:762
+Data governance|success|89328463928|California;USA|1587522257000|5ed6:4c38:1f97:530b:7bbc:4174:4d11:eea7
+Optimizing database performance|success|89328463929|California;USA|1605584999000|7823:aef3:3005:7ec0:131c:e948:19bc:3068
+Data governance|success|89328463930|Tokyo;Japan|1607851661000|232f:c606:3b4c:b79b:b4fb:7b74:5db5:9dca
+Data governance|success|89328463931|Florida;USA|1606229385000|aa1:ccee:818e:b2d3:614b:e3a2:29c8:35f7
+Data quality assurance|-|89328463932|California;USA|1589153908000|f08c:19e:dd58:1710:b0f4:3308:382a:2d82
+Data quality assurance|success|89328463933|Tokyo;Japan|1601871814000|58a8:fd6c:7b34:c2ec:b01:b1a3:d433:e20a
+Data integration|success|89328463934|Ontario;Canada|1596431243000|5cf9:fcd3:e8dc:ab79:3418:9739:750f:52d1
+Data governance|failed|89328463935|Paris;France|1600927770000|eb84:c09b:17aa:d133:e980:3905:fb14:675f
+Data integration|success|89328463936|Queensland;Australia|1607053186000|3ba6:9cca:a6c8:d441:4106:f215:dde:66e3
+Data integration|success|89328463937|Ontario;Canada|1596871832000|57d4:9623:7c06:c76f:2cfe:1d52:f220:6983
+Loading data into a data warehouse|success|89328463938|Tokyo;Japan|1596574616000|9ed6:4a4b:f142:1941:e6f5:bedf:f239:1d1b
+Designing and implementing data models|success|89328463939|New York;USA|1599552235000|9ba0:b0cc:244c:191a:a5d2:5c39:670b:f44b
+Building data pipelines|success|89328463940|Queensland;Australia|1597507389000|3357:7c2a:34e1:af5a:9535:3989:888:47fe
+Data quality assurance|success|89328463941|Tokyo;Japan|1586117317000|f8ae:d5ae:e7a0:9efe:68b1:20a2:198c:f851
+Extracting data from various sources|-|89328463942|New York;USA|1607722300000|118f:8f32:cb81:d70a:d5c6:bc63:6cb7:b2d8
+Designing and implementing data models|success|89328463943|New York;USA|1593936932000|224:22b9:18b2:4006:ac6:2e7d:170:6f6
+Loading data into a data warehouse|success|89328463944|Tokyo;Japan|1589712065000|5ce5:30f5:bfc:d019:fd69:7211:4380:699a
+Data governance|success|89328463945|Ontario;Canada|1586995186000|280b:f9cc:7143:6576:e5be:b6e:e186:b18d
+Transforming data into a unified format|-|89328463946|Florida;USA|1589137644000|db6:adba:f29f:dc03:b5a9:7bd3:88b9:2e39
+Data integration|success|89328463947|California;USA|1592115739000|74a5:be10:8eaf:59d9:43d3:4d05:8568:faac
+Optimizing database performance|failed|89328463948|New York;USA|1590633790000|137a:1249:c58f:d3db:8b95:4f50:caaa:c0fc
+Optimizing database performance|success|89328463949|Texas;USA|1601392505000|806f:1a46:711b:9caf:3ffc:43a0:bfb2:dda9
+Extracting data from various sources|success|89328463950|Ontario;Canada|1588342421000|5add:97ec:a81e:94a9:b790:b87a:ed3d:6c79
+Data integration|-|89328463951|Queensland;Australia|1599942063000|ed6a:f0d7:753d:85b4:6c12:6d4f:1140:f1cd
+Loading data into a data warehouse|success|89328463952|Florida;USA|1601496172000|630e:c8c1:b990:f831:d8b2:7252:60c4:df45
+Extracting data from various sources|success|89328463953|Florida;USA|1602622257000|96b9:d0c5:df87:180b:de07:1e7b:c7d4:e561
+Extracting data from various sources|success|89328463954|Queensland;Australia|1588811615000|b22a:67fa:4e06:ed3b:db82:4151:795:8e42
+Data quality assurance|success|89328463955|Ontario;Canada|1600578053000|8bca:437a:c201:28ef:64a8:8882:5af6:eb3d
+Optimizing database performance|success|89328463956|Paris;France|1590984240000|76dd:5c8d:471:b0c1:5200:238a:1818:4be0
+Transforming data into a unified format|failed|89328463957|Queensland;Australia|1605040974000|bcff:c5b8:4968:8658:ba61:9bf9:d626:f293
+Optimizing database performance|failed|89328463958|Florida;USA|1603958251000|7f01:76be:8028:db50:acba:42b0:e0be:7e69
+Optimizing database performance|success|89328463959|Queensland;Australia|1602176250000|48e2:cdf7:b425:400a:a8db:2170:1dbe:66bd
+Designing and implementing data models|-|89328463960|Paris;France|1594729450000|e344:f190:c9d5:c8d8:a4d7:ca98:da02:36f5
+Data integration|success|89328463961|Ontario;Canada|1599644039000|4cc9:5c79:d518:d029:c220:c1ca:bba4:8fb9
+Extracting data from various sources|success|89328463962|Texas;USA|1608067557000|7cba:d6c1:6369:2263:e5f7:7fa0:c35c:5903
+Extracting data from various sources|-|89328463963|Tokyo;Japan|1607132355000|4dd7:c061:b38a:194d:2501:19ad:de1d:9822
+Data quality assurance|success|89328463964|Texas;USA|1607595551000|8448:da1f:b5f4:4fa9:77ac:9972:922:d156
+Extracting data from various sources|success|89328463965|New York;USA|1590927225000|fb5c:f0f7:a279:633:aa96:d5a3:986b:4cf6
+Designing and implementing data models|success|89328463966|Paris;France|1591557861000|2199:119f:7290:3ed:9712:83aa:c7bb:4905
+Extracting data from various sources|success|89328463967|Ontario;Canada|1604651167000|d79f:e960:b7da:56bc:7314:27ba:ea3f:1c84
+Extracting data from various sources|success|89328463968|Tokyo;Japan|1594645080000|31bf:6456:df5c:97d8:fded:c334:e1be:2d53
+Extracting data from various sources|success|89328463969|Queensland;Australia|1602444043000|8675:1aa7:4ba9:2509:ac7a:58f5:f30b:5d5c
+Data governance|success|89328463970|Paris;France|1601864047000|7a62:4579:9d33:e7c4:3ff8:4cf3:af97:51b1
+Designing and implementing data models|-|89328463971|Ontario;Canada|1607264022000|fa7a:aa22:93c4:2903:a055:cd8f:e583:c48c
+Data quality assurance|success|89328463972|New York;USA|1600474865000|3d1b:e4bc:b33a:2196:c2cf:353c:5d96:ff8e
+Loading data into a data warehouse|success|89328463973|California;USA|1593014661000|d3d8:f3c1:fd66:a8e0:8519:b4f0:4d2c:edbd
+Data integration|success|89328463974|New York;USA|1595773271000|10d:6bdd:a827:95b8:12ab:7d7b:4c8c:eb17
+Building data pipelines|-|89328463975|Paris;France|1589085280000|c346:c439:e2cc:ce15:1136:a8c3:5c38:6aba
+Optimizing database performance|success|89328463976|Ontario;Canada|1586959922000|670b:ba52:4381:57d7:71bb:b847:1435:ebf6
+Optimizing database performance|-|89328463977|Queensland;Australia|1598823804000|e744:c09f:1b0e:3e25:db0e:1918:1b19:5fd2
+Extracting data from various sources|success|89328463978|California;USA|1594699511000|4126:eb16:3a:755e:88b0:82dc:4f29:5691
+Building data pipelines|success|89328463979|Paris;France|1605572903000|9be0:8663:5c0f:6e1:c2b3:9bbe:abb2:7acf
+Data governance|success|89328463980|Queensland;Australia|1600669615000|e8f5:331b:cf6b:c88b:b134:ce79:4aa7:7e45
+Building data pipelines|-|89328463981|Florida;USA|1585703319000|d25:7c2c:4f7c:8288:1dff:c66b:8d79:ebfa
+Optimizing database performance|success|89328463982|New York;USA|1590408949000|5054:5c8:2d41:5319:7bb6:b262:dfab:5ee
+Data quality assurance|success|89328463983|Florida;USA|1603664518000|9e9e:ae9d:2f9b:e8e8:8966:9da5:c34e:d1a8
+Extracting data from various sources|success|89328463984|Tokyo;Japan|1587294472000|ef7:9195:d034:8144:72d2:889a:ecb6:db7c
+Optimizing database performance|success|89328463985|Ontario;Canada|1606396771000|fbef:7526:9fb1:4369:f8ed:7e73:860d:a22f
+Loading data into a data warehouse|success|89328463986|Queensland;Australia|1603815470000|428e:7de5:e9b7:1457:8610:da64:af3:fc92
+Data governance|success|89328463987|Paris;France|1593632867000|2848:e65:de83:104a:e93b:1e48:f49a:81de
+Building data pipelines|success|89328463988|Texas;USA|1607600775000|f34:3f27:d1de:a085:c56a:2e43:30e5:b56a
+Extracting data from various sources|success|89328463989|Florida;USA|1587021742000|f3ed:7dd8:2b57:3478:15a2:d9f6:64af:9baf
+Data integration|success|89328463990|Texas;USA|1605274021000|82e8:fd7:eecc:469a:2bfd:5d2:2b77:55ec
+Transforming data into a unified format|-|89328463991|Florida;USA|1603924934000|4e91:12eb:d90a:4513:71fc:69fb:e256:e72c
+Data integration|failed|89328463992|California;USA|1593455961000|b221:3f6f:bc9f:6f02:9069:9589:8201:1229
+Data quality assurance|failed|89328463993|California;USA|1590318226000|e142:264e:69c2:d2c0:1c6a:572c:c3cb:ff07
+Loading data into a data warehouse|success|89328463994|Queensland;Australia|1601292136000|fbcd:9809:542d:2e2:b47d:2967:97b0:3e7a
+Optimizing database performance|success|89328463995|Florida;USA|1600029152000|ae4:baa1:8275:be81:95b6:b33f:f67a:426a
+Data governance|success|89328463996|Paris;France|1594827466000|c1b7:784a:453d:8adf:1f9b:6e1e:aa79:efa4
+Designing and implementing data models|success|89328463997|New York;USA|1603512164000|5e6d:fc5a:e276:ac2c:1ba:f243:49fa:fbe6
+Data governance|success|89328463998|Florida;USA|1601569915000|d1f:5d01:612b:4252:2705:7287:ae88:1516
+Loading data into a data warehouse|success|89328463999|Texas;USA|1598035763000|5535:64ae:928d:f067:2edd:a308:853c:14d
+Data integration|success|89328464000|Tokyo;Japan|1607184719000|2fc1:eb:65ad:cb1e:a27e:84ea:eeff:137
+Building data pipelines|success|89328464001|Ontario;Canada|1593653169000|db91:a376:132f:eeec:648b:5447:1705:adb6
+Loading data into a data warehouse|success|89328464002|California;USA|1600038426000|4d9:c803:2e9d:10e6:6fa6:d288:5819:d7a2
+Transforming data into a unified format|success|89328464003|Texas;USA|1595983965000|9918:f3ff:bc4b:9370:37a6:ff8f:fabb:9bd4
+Data governance|success|89328464004|New York;USA|1606085855000|697a:ffb1:923:61df:c619:f36c:77c2:ab25
+Transforming data into a unified format|success|89328464005|New York;USA|1607095421000|e281:721:b725:8a00:c441:fdd6:efcf:c4b5
+Data quality assurance|success|89328464006|Texas;USA|1600173738000|6652:408c:adaf:fa:ae3f:3d4d:aa6f:6be5
+Extracting data from various sources|success|89328464007|Florida;USA|1600972319000|8c41:e91d:f9c4:cfd7:3e96:32ab:dd57:dc47
+Data integration|success|89328464008|California;USA|1593035087000|37b8:692c:289d:b6b5:b597:c530:d909:26cd
+Designing and implementing data models|success|89328464009|Tokyo;Japan|1601581095000|e112:3d26:712c:a929:e43d:5844:4ab4:6dc7
+Extracting data from various sources|success|89328464010|New York;USA|1590273271000|77b4:a6ea:7309:ae32:1c31:b916:8c3b:2458
+Loading data into a data warehouse|success|89328464011|Ontario;Canada|1601910645000|77ea:1be:e40c:af91:7cc3:9902:77c9:3210
+Optimizing database performance|-|89328464012|Florida;USA|1604761292000|a0c5:dad3:d436:b9b6:6e48:ddef:ccbc:9979
+Loading data into a data warehouse|-|89328464013|Tokyo;Japan|1594855925000|463f:a63d:8a31:a404:bde:e4a9:96ec:4280
+Designing and implementing data models|success|89328464014|California;USA|1594031214000|9163:82c8:791:b503:2911:7586:2813:7eef
+Data integration|success|89328464015|California;USA|1593457610000|e57e:4a87:9411:a535:9171:820f:9809:f698
+Loading data into a data warehouse|success|89328464016|Texas;USA|1605007322000|c294:f501:7f74:e7e1:54bd:3ad5:518c:ae4e
+Data quality assurance|success|89328464017|New York;USA|1604280435000|3bf8:4f5:6970:32e3:25c4:474e:b228:1c47
+Extracting data from various sources|success|89328464018|Queensland;Australia|1600569973000|a3c5:6f7f:453f:7c5b:a65f:89cf:f4b0:d3fc
+Data integration|success|89328464019|Ontario;Canada|1589951160000|3788:4f5b:f329:e305:eb5e:3eb1:baf1:80bb
+Extracting data from various sources|success|89328464020|New York;USA|1594923080000|a1d8:48d2:6d93:1d97:ec7d:3410:b48:175e
+Building data pipelines|success|89328464021|California;USA|1593604517000|99d:94cf:e9d:a147:fa09:b885:f53b:fc4d
+Building data pipelines|success|89328464022|Ontario;Canada|1600590873000|cdc5:1089:4fc2:eac2:f9a5:3e5b:3711:4c0a
+Designing and implementing data models|success|89328464023|Paris;France|1597916871000|1701:a5a:d08f:fddf:3e86:aeda:82f9:e7a8
+Transforming data into a unified format|success|89328464024|Florida;USA|1603084678000|b68b:1c4b:986f:ec56:8579:6233:f5ee:195f
+Data governance|success|89328464025|Florida;USA|1595531344000|38e:1dab:3ae7:db26:1f58:8d6a:74ec:59e
+Designing and implementing data models|success|89328464026|Tokyo;Japan|1608103135000|fbd4:ca67:e8bf:5ba2:23d4:57c:aea0:33e7
+Data quality assurance|success|89328464027|Queensland;Australia|1596365674000|2427:b0ef:1d46:30ee:b516:3dc3:a6cb:f014
+Data integration|success|89328464028|Texas;USA|1602576594000|d13b:e940:8c2c:165a:1427:4f07:8020:dbca
+Extracting data from various sources|success|89328464029|New York;USA|1606365915000|5c00:3145:ef17:f9f:4794:27b3:2783:7b7d
+Data quality assurance|success|89328464030|Tokyo;Japan|1594176083000|9beb:8146:a151:cd5b:1211:3cd8:3cdb:a146
+Loading data into a data warehouse|success|89328464031|Florida;USA|1596118973000|4f49:b860:70c6:b24:21e0:27eb:a7a4:7b7a
+Building data pipelines|failed|89328464032|Paris;France|1596518626000|cbf3:4bc:6b6f:f877:e4d7:88dc:28c5:ec68
+Data integration|-|89328464033|New York;USA|1601962262000|a372:367d:9f29:b949:b206:451c:98c:7fd
+Extracting data from various sources|success|89328464034|Tokyo;Japan|1596713134000|e743:b05a:4313:4c99:d2a8:3ebf:2b5b:1f0d
+Extracting data from various sources|success|89328464035|Texas;USA|1590296419000|2a8:bc9b:f338:ee5b:39b3:f1f4:ad45:f573
+Data governance|success|89328464036|Ontario;Canada|1595791360000|97c2:3b3c:c8dd:8431:29a9:ec1c:4d00:2d96
+Transforming data into a unified format|success|89328464037|Paris;France|1586587237000|93ee:650e:6bd:764:d23c:23ef:df00:5ea7
+Optimizing database performance|-|89328464038|Texas;USA|1592605290000|8163:5e29:aeae:b5d3:50e:20e4:5063:b56e
+Extracting data from various sources|failed|89328464039|Florida;USA|1595306631000|e248:3652:41c6:fa44:dfeb:6746:11b5:2f31
+Transforming data into a unified format|success|89328464040|Florida;USA|1604908674000|a91e:ec00:9c4e:ba2:9b8f:b7ac:7cb8:d8ee
+Transforming data into a unified format|success|89328464041|Texas;USA|1589857398000|4c5d:4fab:dca2:b63f:488:c316:30bf:d270
+Transforming data into a unified format|success|89328464042|Tokyo;Japan|1591195845000|4337:f103:738b:68b6:a45b:2008:8bf1:8e23
+Extracting data from various sources|success|89328464043|New York;USA|1593141518000|263c:bd22:be8a:4331:8fa8:3190:1c83:332a
+Building data pipelines|success|89328464044|California;USA|1589779537000|f7f:cd59:c6a6:d747:c64d:f7aa:bd23:e76b
+Transforming data into a unified format|success|89328464045|Florida;USA|1602672062000|ce76:ba77:d124:2ec1:e712:f9a9:2eda:3819
+Building data pipelines|success|89328464046|Tokyo;Japan|1601352746000|8098:d5e8:b3ce:84c1:3a3c:b150:9c0f:9c45
+Data integration|success|89328464047|Queensland;Australia|1589024084000|6755:38e5:bdcc:304d:cf57:1ff8:2eac:683e
+Data integration|success|89328464048|Ontario;Canada|1595506568000|7724:503a:fe9f:7a9c:3fe6:aba2:715d:6a25
+Transforming data into a unified format|success|89328464049|Ontario;Canada|1597280390000|2f01:bd60:d346:88cc:b8cd:5c22:1500:560c
+Extracting data from various sources|success|89328464050|Ontario;Canada|1599743184000|4a41:617e:f83:563f:8b78:a2a4:333:98c6
+Optimizing database performance|success|89328464051|Paris;France|1593787286000|8f65:a82c:c26f:2b65:ea26:88ab:6dc4:e47c
+Loading data into a data warehouse|success|89328464052|New York;USA|1599220691000|7a76:7dd3:cf4b:bd21:939b:335a:ea11:6b8a
+Extracting data from various sources|success|89328464053|New York;USA|1586092799000|f676:9758:2143:a021:a72b:a669:6968:d603
+Extracting data from various sources|success|89328464054|Ontario;Canada|1607033745000|546c:bf09:77f2:9f72:7953:509d:4ea:10fc
+Data governance|success|89328464055|New York;USA|1603992587000|d422:f71a:6aa:7aac:5ade:46b1:86bc:21dc
+Transforming data into a unified format|failed|89328464056|Queensland;Australia|1596544612000|8b2f:ab60:6fc1:f1fc:29c5:6194:d3ee:2dc7
+Transforming data into a unified format|-|89328464057|Queensland;Australia|1602161766000|951d:f4e5:f32e:2a7c:8ec:301:f862:e75f
+Optimizing database performance|success|89328464058|Ontario;Canada|1595312210000|501d:3d8e:b1d0:f57d:e575:951f:39c:5d5e
+Data quality assurance|success|89328464059|Paris;France|1608159945000|9649:2734:8cea:80b9:31aa:9b08:fab5:a890
+Loading data into a data warehouse|success|89328464060|New York;USA|1601020127000|33ac:18a8:d325:1fde:ddde:21d3:1372:80b0
+Data integration|failed|89328464061|Paris;France|1593493947000|a628:e4a3:1307:9e3c:7d07:f677:60a:c556
+Data governance|success|89328464062|Texas;USA|1591460147000|cefe:465b:f07d:a15a:5ddb:c333:c250:11fa
+Data quality assurance|success|89328464063|New York;USA|1597572181000|b271:5bc0:c457:e409:3d47:537c:1343:f9d6
+Extracting data from various sources|success|89328464064|New York;USA|1587354789000|28a5:c1c8:6d37:649b:c18c:5eba:1bde:bcf6
+Building data pipelines|success|89328464065|Paris;France|1600881555000|78b9:c130:571d:4b03:bfba:3d2a:37f1:9883
+Designing and implementing data models|success|89328464066|California;USA|1607664707000|8d4c:2f50:787d:ec1c:7ef2:5339:8680:a3a3
+Building data pipelines|success|89328464067|Paris;France|1605844629000|e6b0:6bca:223d:36ef:3a15:63b7:b75c:51c5
+Extracting data from various sources|-|89328464068|California;USA|1595880550000|7c64:7a40:befc:96d4:d542:da34:9959:a864
+Data integration|success|89328464069|Queensland;Australia|1586054466000|eeed:fdd6:3b0e:712f:7fbd:9e82:2029:233c
+Transforming data into a unified format|-|89328464070|Texas;USA|1605268636000|499e:76a8:b1f8:4409:ad16:f5fa:b602:84d5
+Loading data into a data warehouse|success|89328464071|Queensland;Australia|1591605215000|ebd3:dcce:a153:f016:b966:87b2:857a:f7fa
+Data integration|success|89328464072|California;USA|1588779275000|94b:86b3:9017:7d0f:f758:53a2:6473:a4ed
+Building data pipelines|success|89328464073|Tokyo;Japan|1590394084000|4498:7bce:41ee:447c:4020:d284:7aae:6756
+Data integration|success|89328464074|Florida;USA|1604013208000|b4e7:a3d5:b77:71cb:7080:d6d:5cd3:cad6
+Loading data into a data warehouse|success|89328464075|Florida;USA|1586232225000|2087:b3b0:2846:564c:4c7f:f228:e242:4bd8
+Extracting data from various sources|success|89328464076|Ontario;Canada|1586230659000|e7e3:4e74:ac3a:3d19:2393:13af:3817:fb76
+Designing and implementing data models|failed|89328464077|Ontario;Canada|1604254816000|5697:1424:f10e:3bd3:7d6a:c222:ae6:c90e
+Building data pipelines|success|89328464078|Texas;USA|1593991583000|5fa8:f5d3:dd41:9832:83cd:1146:d6d9:6ade
+Data quality assurance|success|89328464079|Florida;USA|1600724572000|81a8:ae78:a8df:5f27:b7da:46d0:2403:b3a7
+Extracting data from various sources|-|89328464080|Queensland;Australia|1589634064000|e3e3:c4d0:b320:71a2:e72b:3922:cf74:2e53
+Extracting data from various sources|failed|89328464081|Tokyo;Japan|1602213046000|ee6a:e8d9:7b1a:6461:71f5:1680:7871:8ab7
+Designing and implementing data models|success|89328464082|Tokyo;Japan|1598890178000|6463:aa3d:669d:3e69:618:6995:cabf:78aa
+Optimizing database performance|success|89328464083|Queensland;Australia|1601674353000|7a82:1d49:ae63:a463:2f56:1a79:7f99:283
+Extracting data from various sources|success|89328464084|Paris;France|1600715868000|b77d:283:6e7b:1a9b:16f1:9aa2:b981:a9fa
+Transforming data into a unified format|failed|89328464085|Florida;USA|1595586881000|5b87:2470:d4c9:1ad7:7c2e:585a:19a6:bff5
+Designing and implementing data models|success|89328464086|Tokyo;Japan|1592742905000|5eaf:9fc8:9f0:40d9:435b:86db:16e4:1923
+Data governance|success|89328464087|Tokyo;Japan|1588055910000|df:b529:1e4f:997a:7893:59ab:d78:2cfd
+Data integration|success|89328464088|Texas;USA|1591645385000|1fd9:1c6:4e2f:23b2:d776:f210:f6be:5fa6
+Optimizing database performance|-|89328464089|Queensland;Australia|1607674317000|5d5e:703:42ef:41e6:dea3:e762:6fe1:4ccc
+Loading data into a data warehouse|success|89328464090|Florida;USA|1587367622000|d92e:ed57:8cee:c23f:fc3c:e5c3:7674:3f5c
+Loading data into a data warehouse|success|89328464091|Queensland;Australia|1598913059000|e686:2c78:6f35:6c9c:7924:cefd:e390:c2f0
+Optimizing database performance|success|89328464092|California;USA|1600042835000|3964:2d17:6882:ff9d:b5d7:736e:cfc8:e40c
+Data quality assurance|success|89328464093|Florida;USA|1606560214000|b737:b008:73a2:e9ce:16c:8b30:a4c1:a6e1
+Optimizing database performance|failed|89328464094|California;USA|1603120947000|b71:ef09:22b4:3486:120a:bb18:49d0:377a
+Loading data into a data warehouse|success|89328464095|Texas;USA|1590964757000|6915:292b:4e62:1aa5:88d3:959e:149:6bd
+Extracting data from various sources|success|89328464096|New York;USA|1586184015000|708a:b84:2787:c8c:ba93:8be8:a4ce:e41e
+Extracting data from various sources|success|89328464097|Paris;France|1600288496000|d68e:daa6:344a:34b7:7665:a6b7:986f:5275
+Extracting data from various sources|success|89328464098|Texas;USA|1603240568000|26a1:4028:16c:409:67db:8639:b54b:e18f
+Loading data into a data warehouse|success|89328464099|New York;USA|1588920869000|f05e:b8aa:8781:b14e:cbe0:9d92:b66b:243a
+Data governance|success|89328464100|Tokyo;Japan|1606985564000|643a:1a62:c907:30f0:c0ff:86b6:30aa:f388
+Data governance|success|89328464101|Ontario;Canada|1587015743000|fef1:8f16:97c7:a1f1:1706:81c6:5956:6fc0
+Extracting data from various sources|success|89328464102|Texas;USA|1588513184000|3d55:349c:704c:1a94:bd55:86f:1cce:bd04
+Transforming data into a unified format|success|89328464103|Paris;France|1585784337000|57a7:eebd:61d1:4250:7c2:3638:db4c:5eac
+Extracting data from various sources|success|89328464104|California;USA|1589744365000|504b:82c8:c416:e135:e2a7:7bae:889e:fd0d
+Building data pipelines|success|89328464105|Queensland;Australia|1586175489000|9780:2bdd:3c2d:bd38:de78:e721:a3c:1ac7
+Data integration|success|89328464106|Queensland;Australia|1600533938000|9e01:d7a:12fb:1033:a9b1:14d6:9510:cb7f
+Extracting data from various sources|success|89328464107|New York;USA|1604011519000|7f3:8ef9:4f70:922e:ce18:76b8:2f1b:c87d
+Data quality assurance|success|89328464108|Tokyo;Japan|1589219750000|abce:9d90:f4e4:b022:a774:39b3:ee7:e8f1
+Data quality assurance|success|89328464109|Paris;France|1604413089000|405c:595c:eb4:f15d:db67:1755:ff66:fd05
+Transforming data into a unified format|success|89328464110|Ontario;Canada|1593797043000|7496:c9a9:8620:509b:6fe4:3cad:9949:700e
+Data integration|success|89328464111|Ontario;Canada|1586362966000|724:546a:650a:b407:d703:7dc5:43a5:9600
+Extracting data from various sources|success|89328464112|Florida;USA|1608116111000|bfb:fdf8:c902:f51d:e706:43bc:674d:6db7
+Designing and implementing data models|failed|89328464113|Tokyo;Japan|1603866504000|96e2:d435:8996:fdf5:b867:61d:5612:1004
+Designing and implementing data models|success|89328464114|California;USA|1586651226000|a14e:f961:506f:194d:5b69:1241:f893:f723
+Extracting data from various sources|success|89328464115|Paris;France|1598976908000|6929:e8f8:d66a:ec24:f76b:954:6879:d6b
+Loading data into a data warehouse|success|89328464116|Queensland;Australia|1604361066000|de43:9e7c:9e51:65cd:5a6:635b:e9b0:513f
+Designing and implementing data models|success|89328464117|Paris;France|1607202182000|b5e4:a5e8:9ea4:285e:896f:df69:92a6:a74b
+Designing and implementing data models|success|89328464118|California;USA|1604724406000|8080:1aa2:8e5e:9b2b:7480:299b:7d59:d5a7
+Building data pipelines|-|89328464119|Paris;France|1604859672000|45b:6585:3565:3a10:901e:6018:4cd5:2ee9
+Data governance|-|89328464120|New York;USA|1587017264000|ecf4:bd1e:2e8c:dcaa:cd4:2d6d:3d04:f757
+Transforming data into a unified format|success|89328464121|Florida;USA|1595166904000|8fce:4100:3352:2c21:a959:e01a:4b59:d64e
+Data governance|success|89328464122|Tokyo;Japan|1588333922000|fb74:a22a:2725:7705:f18:6a03:783e:3791
+Extracting data from various sources|success|89328464123|Florida;USA|1591624750000|ef22:98fa:2964:a8d7:16bb:60df:b33b:7314
+Extracting data from various sources|failed|89328464124|California;USA|1593554531000|f1b6:5e4c:fb86:1d9f:7ce5:40ff:2ebc:7723
+Optimizing database performance|success|89328464125|New York;USA|1605091672000|83ee:d163:18f9:a1ad:6ce8:f16c:ed90:3f36
+Extracting data from various sources|success|89328464126|Florida;USA|1597186806000|c709:2ce9:8514:3eb2:a775:5679:29ca:3de2
+Building data pipelines|failed|89328464127|California;USA|1585897225000|6d5b:7297:303d:f926:3993:4980:6643:dcc8
+Transforming data into a unified format|success|89328464128|New York;USA|1598799991000|5a13:fec0:e08d:f375:f45f:13c7:4639:1a78
+Data integration|success|89328464129|Tokyo;Japan|1601218517000|f872:58b7:5c3f:35b3:2075:79f8:5bd6:b276
+Data quality assurance|failed|89328464130|New York;USA|1603920824000|855f:feb9:f90c:d173:a126:111e:8114:d87c
+Data governance|success|89328464131|Texas;USA|1599027486000|cac3:f063:63ec:6ce0:9f87:a08f:b42e:ce5b
+Data integration|success|89328464132|Tokyo;Japan|1607535941000|5654:5aa0:fdb5:721c:4181:c765:6372:6f5d
+Transforming data into a unified format|success|89328464133|California;USA|1604978576000|5300:c9a4:28cf:d65:3ad2:ff8d:f43:3cc
+Extracting data from various sources|failed|89328464134|New York;USA|1605667844000|2ef:4767:4209:c79d:f96f:fc4b:6e96:75ec
+Designing and implementing data models|success|89328464135|New York;USA|1588611689000|e550:5cd6:ef5d:c00b:d3d8:7f6c:f1a1:1341
+Designing and implementing data models|success|89328464136|California;USA|1604081122000|fac8:586e:a423:e42e:e612:4615:e56e:a92c
+Data governance|success|89328464137|Tokyo;Japan|1604501159000|5b3d:126:6f79:218:2e6f:a0ba:d1c3:de9
+Extracting data from various sources|failed|89328464138|Queensland;Australia|1602081680000|8121:1c5b:f7ea:aa44:ced8:921d:5b7:255b
+Extracting data from various sources|success|89328464139|Ontario;Canada|1585789540000|fb10:6389:1b14:2a87:730d:884e:608:4b13
+Extracting data from various sources|success|89328464140|Ontario;Canada|1586814655000|dac3:2ebc:9e9:c46c:4150:a7a9:a55a:fd50
+Data governance|success|89328464141|Florida;USA|1595912023000|8a8:f322:91:a546:ccf5:9185:3fce:dd43
+Extracting data from various sources|success|89328464142|Queensland;Australia|1606431154000|2bcd:d65b:f223:4eb2:6e91:6f05:18fb:4d03
+Extracting data from various sources|-|89328464143|Queensland;Australia|1588115701000|a846:8aff:166d:57da:729e:3116:88ba:786
+Data quality assurance|failed|89328464144|California;USA|1589185250000|50f2:b1b7:da3a:7045:a7c5:a29f:1fc4:be35
+Building data pipelines|success|89328464145|Ontario;Canada|1596046369000|2310:643a:b1fc:c915:ca43:cc8:b06b:25bb
+Building data pipelines|success|89328464146|Florida;USA|1589537887000|286e:6de7:b000:a840:6ddf:8736:fdc:16d2
+Extracting data from various sources|success|89328464147|New York;USA|1607303509000|16b:38c0:efd1:d359:2e46:8362:df52:e949
+Extracting data from various sources|failed|89328464148|Queensland;Australia|1591983353000|862a:1aac:71ee:d420:e5e0:1ff7:d764:44b1
+Loading data into a data warehouse|success|89328464149|Texas;USA|1607582772000|e2b6:7458:1faa:ecc4:8bd2:c1c0:f6af:6a1
+Transforming data into a unified format|success|89328464150|Tokyo;Japan|1590812735000|4d61:e612:8a90:fe3e:3ec4:f5c8:611a:5032
+Transforming data into a unified format|success|89328464151|Florida;USA|1589067222000|abe9:e9c4:2a16:bd28:58fb:f9b3:b311:55cc
+Extracting data from various sources|failed|89328464152|Queensland;Australia|1590398377000|2fa8:2f57:7c83:6dae:daad:89e2:7b46:1459
+Extracting data from various sources|success|89328464153|Queensland;Australia|1607774578000|55db:d11:17e6:5969:3008:74f7:6cd9:e5a9
+Data integration|success|89328464154|Queensland;Australia|1601757146000|d758:1ae6:6337:c953:6060:951:fbdb:f6db
+Transforming data into a unified format|-|89328464155|Queensland;Australia|1607279847000|40fb:9654:5497:8023:7a58:23c1:bb6e:dd5d
+Extracting data from various sources|success|89328464156|California;USA|1606481032000|d86e:3e5b:a256:589f:d7df:e7df:4d38:2af6
+Building data pipelines|success|89328464157|Queensland;Australia|1596747364000|8679:ba7e:57c0:d6b8:ffcc:5a4a:3970:742d
+Data quality assurance|success|89328464158|Queensland;Australia|1603656532000|50f4:9654:329e:1ebc:b3a3:c588:5cdf:20b8
+Extracting data from various sources|success|89328464159|New York;USA|1588951102000|e56e:1e73:2433:c298:300c:9f33:9949:e0d9
+Building data pipelines|success|89328464160|Ontario;Canada|1596072142000|91fd:ebd1:a07f:3ff1:c13c:29eb:b851:3918
+Data quality assurance|success|89328464161|New York;USA|1599850400000|38ba:a1c7:7bdd:3107:54e6:f18c:900d:5499
+Designing and implementing data models|-|89328464162|Tokyo;Japan|1595945556000|2a51:2041:a934:6950:2cad:a11a:9750:1e28
+Loading data into a data warehouse|success|89328464163|New York;USA|1591695757000|d929:3c8c:4431:bdff:2dee:2c9e:bbf1:3765
+Data integration|-|89328464164|Queensland;Australia|1602048483000|cf3c:68d3:6fdb:868c:7625:8d5c:1abc:2177
+Data governance|success|89328464165|Florida;USA|1591915771000|ba97:a58d:aee8:84ac:ce24:db20:3db0:3b37
+Data governance|success|89328464166|Queensland;Australia|1596240245000|368e:dd99:663e:a070:9344:d906:cf5e:f392
+Loading data into a data warehouse|success|89328464167|Paris;France|1597152365000|2946:c79b:3d98:5eb6:6236:3998:aa68:8592
+Transforming data into a unified format|failed|89328464168|Paris;France|1601265398000|a0df:5703:d40d:6995:c981:3b32:673f:e916
+Data quality assurance|success|89328464169|Paris;France|1595094750000|69c8:fd3b:ca9f:86c4:76bd:dbcf:e1d5:10e6
+Transforming data into a unified format|success|89328464170|Paris;France|1590396591000|9a1d:9ebf:9b9f:f2c0:3e6c:fd23:d3fd:ee8b
+Data governance|-|89328464171|Paris;France|1588922383000|c40f:c9fe:eebc:40d:32c4:c49d:341f:60af
+Loading data into a data warehouse|success|89328464172|Paris;France|1599384233000|9f3f:82f:6860:cfd9:41af:790e:70fd:c8ad
+Extracting data from various sources|success|89328464173|Texas;USA|1589403932000|b454:80ab:c01f:ab41:73cb:51d3:77e4:95cc
+Extracting data from various sources|success|89328464174|Paris;France|1605012393000|5c68:a964:41e:ee78:7321:1f4f:daa5:1b5b
+Loading data into a data warehouse|success|89328464175|Queensland;Australia|1600744295000|6b44:ee7b:bf0a:844c:ae4:9fef:d146:f265
+Extracting data from various sources|success|89328464176|Florida;USA|1586296009000|cee:e13f:fa1b:cab4:6b41:236a:38b8:ba8c
+Data integration|success|89328464177|New York;USA|1605385331000|844d:970f:450b:69d0:5fa8:3941:1a76:b9f8
+Transforming data into a unified format|success|89328464178|Ontario;Canada|1602457235000|978d:a83:c69a:1d51:a39:be13:7b3f:8055
+Loading data into a data warehouse|success|89328464179|Queensland;Australia|1587595347000|f5b9:5d1e:11f6:b3ff:b3cf:c018:2d37:e77
+Designing and implementing data models|failed|89328464180|New York;USA|1599822073000|bad6:569f:c3a8:29ef:2057:d390:41dd:a3f8
+Data governance|success|89328464181|Tokyo;Japan|1599776654000|126d:63ba:c98:e7b4:f808:f3ae:c5c1:c0d6
+Building data pipelines|success|89328464182|New York;USA|1605307882000|a495:cfe7:1983:4106:b216:14b4:54c9:23c5
+Data integration|success|89328464183|New York;USA|1587860126000|ff7b:aee4:cdfe:2b44:f408:a9eb:a980:833a
+Extracting data from various sources|success|89328464184|Ontario;Canada|1586573880000|70ed:2dba:eb67:894f:96bb:a757:13fb:c2f3
+Data integration|success|89328464185|Queensland;Australia|1589167738000|d243:6b07:e417:67fd:ef03:9569:dedf:b055
+Designing and implementing data models|success|89328464186|California;USA|1585869110000|fd1b:e6ac:f64c:3887:d857:76c9:8c3e:86f8
+Building data pipelines|failed|89328464187|Paris;France|1600057740000|50bd:64a4:20c:a116:ef44:ecef:4895:19db
+Loading data into a data warehouse|success|89328464188|Paris;France|1601911385000|3e86:209c:ecb7:29a4:e544:24ea:1b2f:26cc
+Extracting data from various sources|success|89328464189|Ontario;Canada|1600361358000|71dc:7a55:94d9:e8d6:6869:18d6:1ee8:b10d
+Extracting data from various sources|success|89328464190|Ontario;Canada|1604485587000|951e:69ed:15:2ac2:aa3f:71d5:6556:871d
+Transforming data into a unified format|success|89328464191|New York;USA|1596552531000|51e1:a973:402a:fbcd:1591:5cee:ce4d:5473
+Loading data into a data warehouse|success|89328464192|Texas;USA|1593007067000|80ad:a495:177a:f16b:20a6:26c1:902b:f956
+Data quality assurance|failed|89328464193|Florida;USA|1586546574000|e68b:ae48:391:29a4:f3ac:5ffa:91ae:771c
+Designing and implementing data models|success|89328464194|Ontario;Canada|1607353661000|937a:ee47:397c:e710:74e1:cb72:1c44:eb04
+Designing and implementing data models|failed|89328464195|New York;USA|1600230120000|735c:3f48:709b:c08a:5a41:1c00:1af5:74fe
+Extracting data from various sources|-|89328464196|Paris;France|1606651604000|56ea:2b6e:bd49:f42f:1fd5:f8ed:3183:c568
+Designing and implementing data models|success|89328464197|California;USA|1600205772000|3882:2292:f51c:2a6b:991f:d289:30d1:fa1
+Optimizing database performance|-|89328464198|Ontario;Canada|1595040050000|88e3:89c2:c850:c7dd:7ea0:6e04:12be:d543
+Transforming data into a unified format|success|89328464199|New York;USA|1589824932000|ef01:7a6e:8124:8827:6608:7201:857d:929c
+Data quality assurance|success|89328464200|New York;USA|1604613518000|dcb1:671e:b2fd:d095:bfc3:1a3a:ea93:e72b
+Building data pipelines|success|89328464201|Florida;USA|1596890309000|ca93:b519:ff5:da8b:d67e:ab0f:6e42:76d5
+Designing and implementing data models|success|89328464202|New York;USA|1587239042000|4926:822:2c98:2e3e:b5c9:5ca4:8825:b198
+Data integration|success|89328464203|Paris;France|1604071681000|6965:202e:74cd:f211:dce1:1483:c06e:a998
+Extracting data from various sources|failed|89328464204|New York;USA|1601590040000|49ad:9eb7:99f6:bf83:495e:7928:bef8:f49e
+Building data pipelines|success|89328464205|Texas;USA|1590885781000|9309:7c5f:92ea:bc:389c:94d1:5ab:5d55
+Extracting data from various sources|success|89328464206|New York;USA|1603676400000|7a0:9b46:1e4c:edd4:5d17:2780:1ea4:309c
+Data governance|-|89328464207|Tokyo;Japan|1600605912000|7697:1b6d:63ce:b95c:ce71:f5ad:1ed2:2711
+Optimizing database performance|success|89328464208|New York;USA|1592972972000|4ab2:5835:976e:fbba:e5e7:566d:a4b3:a195
+Loading data into a data warehouse|-|89328464209|Ontario;Canada|1586665552000|514a:2fbc:3fdd:dade:1024:2339:5ace:8c2f
+Transforming data into a unified format|success|89328464210|Texas;USA|1598403529000|d241:a37f:ef1c:77b4:c2b:7fec:414e:8a0c
+Transforming data into a unified format|-|89328464211|Paris;France|1587383905000|adc:9bd0:b6f9:b08f:7c25:2ffd:e9a9:487b
+Extracting data from various sources|success|89328464212|Paris;France|1604262595000|2702:b439:6f56:5285:eea6:1b3:260c:9cb6
+Data integration|-|89328464213|Queensland;Australia|1605745649000|f5ad:bf6:70ad:96c:b8b8:9873:91c9:b92a
+Data governance|failed|89328464214|Paris;France|1592454790000|723d:367c:6d59:f275:9731:704b:b858:7fc1
+Building data pipelines|success|89328464215|Tokyo;Japan|1586458454000|4275:7936:37df:332b:d70f:8615:f5ba:9c85
+Transforming data into a unified format|-|89328464216|Florida;USA|1604451148000|bfb8:64cb:79c9:8e78:287b:3536:a516:f79c
+Transforming data into a unified format|success|89328464217|Ontario;Canada|1587917020000|8d9b:8ee9:f0dd:a3ee:d33e:fb2c:27ae:90da
+Data governance|success|89328464218|Queensland;Australia|1606672099000|4b40:b06e:ad0f:a828:5063:76ac:b4c2:3b80
+Extracting data from various sources|-|89328464219|Tokyo;Japan|1603481354000|64e5:f5bb:2f0c:914d:c371:31bb:5409:31e8
+Transforming data into a unified format|success|89328464220|California;USA|1606202523000|151a:5eb0:5760:8be0:e247:1a92:cda4:5b43
+Transforming data into a unified format|failed|89328464221|California;USA|1604052330000|afe8:3498:23ed:b00f:6eb2:8a9e:a9c7:c4e
+Loading data into a data warehouse|success|89328464222|California;USA|1595174749000|f3de:a1d7:fab4:49f1:8a5:7de3:2df0:7051
+Data governance|failed|89328464223|Tokyo;Japan|1586406101000|4cda:9d40:1a0f:6b1f:769:6d1c:ed21:4fb3
+Data quality assurance|-|89328464224|Tokyo;Japan|1592736718000|56d5:8e15:d406:b94b:9bcd:5c9:cfe9:b62c
+Extracting data from various sources|success|89328464225|Texas;USA|1605887338000|8b67:c7ac:7e69:8968:fb09:2447:17b6:ffdd
+Data governance|success|89328464226|Florida;USA|1600342608000|9a3c:ac08:548e:1949:2f9d:1794:46c8:4adf
+Extracting data from various sources|success|89328464227|Texas;USA|1591427366000|56af:e4d8:96b7:26c8:63fe:15b4:5faa:b49
+Optimizing database performance|success|89328464228|New York;USA|1601192986000|8317:4bfe:f6ab:13eb:1232:6688:b160:e427
+Data quality assurance|success|89328464229|Florida;USA|1598311819000|162f:11f0:d64e:c353:a667:96c8:e04b:a02
+Building data pipelines|success|89328464230|Florida;USA|1586106791000|2c7b:a207:d144:531c:3114:1d67:a070:f579
+Transforming data into a unified format|-|89328464231|California;USA|1606537058000|1e0b:8c80:3df2:5c32:af22:dcec:db21:c2ff
+Data integration|success|89328464232|Tokyo;Japan|1587863974000|3d0d:dc6c:4af3:162b:6b56:2580:28fd:7410
+Designing and implementing data models|success|89328464233|New York;USA|1593633736000|c3b1:42e1:5004:8749:3364:bc3e:f6ff:43af
+Data quality assurance|success|89328464234|Tokyo;Japan|1585866481000|4ac8:505f:da18:4711:f7da:3a24:9887:488f
+Data quality assurance|success|89328464235|Ontario;Canada|1585837700000|f0de:7b23:363b:f794:9d33:f75:af3c:9578
+Data governance|failed|89328464236|Paris;France|1590382661000|1ab4:d316:605d:79ec:b9fa:357b:2af5:cda6
+Extracting data from various sources|success|89328464237|New York;USA|1596208022000|c1d0:2bab:1af:2318:a3c5:51bd:ee09:fdd6
+Building data pipelines|success|89328464238|Ontario;Canada|1586144640000|c1b8:1df0:72c5:369:6317:d8fc:ec5d:7b8b
+Designing and implementing data models|success|89328464239|Queensland;Australia|1587856597000|c4ae:eb9a:c09:1568:dc3f:95f7:cc0a:bda5
+Transforming data into a unified format|success|89328464240|California;USA|1602148779000|13d5:7d5f:3864:8b14:de1d:d0c6:8a02:c190
+Extracting data from various sources|success|89328464241|Ontario;Canada|1586201308000|1216:ca63:d076:24f2:d2f7:e5c7:d0f8:ba8b
+Data governance|success|89328464242|Paris;France|1593423423000|9661:cfb4:8c15:b6f4:58a1:b702:377c:5688
+Building data pipelines|success|89328464243|New York;USA|1594913890000|ac7b:4230:7c57:ee54:eba1:ee1c:5711:4581
+Optimizing database performance|success|89328464244|Queensland;Australia|1595018489000|c7af:5673:691c:36c6:7620:6d7f:23ea:e6cc
+Transforming data into a unified format|success|89328464245|Florida;USA|1586935691000|e80f:7ade:44e1:3453:aab9:5886:8aac:adf7
+Building data pipelines|success|89328464246|Paris;France|1585887865000|2f4d:6997:513c:13f6:33c6:3635:2e65:a071
+Extracting data from various sources|success|89328464247|Paris;France|1591423179000|71d8:3a16:7f21:c4ce:1d5c:3822:f32d:d6f0
+Loading data into a data warehouse|success|89328464248|New York;USA|1589393523000|230a:315a:1650:59e9:6916:fe69:6d30:1ff2
+Transforming data into a unified format|failed|89328464249|Ontario;Canada|1586104297000|588e:7fd0:5012:889d:d88c:90a8:acf2:46fe
+Extracting data from various sources|-|89328464250|California;USA|1603919562000|4568:600c:2e6e:ba84:4de:f3c9:6b7:eca8
+Data quality assurance|failed|89328464251|Tokyo;Japan|1597027279000|2abd:a066:f607:ce1d:cf62:7ae5:c239:920f
+Data quality assurance|failed|89328464252|California;USA|1586270898000|17b6:45d6:f9dc:bc9f:6613:208b:7a9a:e583
+Data governance|failed|89328464253|Paris;France|1602618504000|19a0:81f7:4300:2333:2ac2:8026:fbb6:5f4c
+Designing and implementing data models|failed|89328464254|Tokyo;Japan|1599337769000|5ef5:10cc:3fef:acbf:57f3:c9c0:3af6:2cce
+Designing and implementing data models|success|89328464255|Florida;USA|1590770745000|7f95:8ed4:cc22:da71:8ccc:3cf1:8ff8:c8b4
+Data integration|-|89328464256|Queensland;Australia|1592783436000|39eb:3744:e37c:6cfe:ea16:fb2b:f0a5:34d
+Building data pipelines|-|89328464257|California;USA|1599770098000|bbbc:72e5:25c9:1682:fdb9:ddf3:2af2:b534
+Extracting data from various sources|success|89328464258|Ontario;Canada|1603032935000|bb39:aa1f:5958:f515:9655:fc98:9d41:664a
+Transforming data into a unified format|success|89328464259|Tokyo;Japan|1590966755000|ae1d:b8c1:3f1b:a708:3e2a:abb4:bc5e:8005
+Loading data into a data warehouse|failed|89328464260|Ontario;Canada|1591262124000|8231:1427:d9a:4ef2:f902:9862:fe75:ddab
+Data quality assurance|success|89328464261|New York;USA|1589621508000|bbfd:83e0:f940:a0ba:aaa8:a181:beb4:3315
+Extracting data from various sources|success|89328464262|Florida;USA|1597482974000|3a3c:523d:62:a47f:aacd:247b:19af:9827
+Data quality assurance|success|89328464263|Paris;France|1602993941000|9e69:7fb8:f2b7:dc8f:3673:1e71:fd1a:a4e1
+Extracting data from various sources|success|89328464264|Paris;France|1589311205000|26b5:4d07:b24b:6678:844b:10d7:9c62:7240
+Transforming data into a unified format|success|89328464265|New York;USA|1598537021000|6e78:a41a:73a6:567d:6999:ae8e:66e7:44b5
+Optimizing database performance|success|89328464266|Florida;USA|1587312028000|dc32:9f14:f08d:64e7:3aff:46c5:56fb:c0fd
+Data integration|success|89328464267|Ontario;Canada|1595803361000|6308:c4a4:cc79:1cf8:8c0d:b986:9155:19b6
+Extracting data from various sources|success|89328464268|Tokyo;Japan|1605767445000|dff3:33af:5cb3:ceff:8f28:e8b4:3048:5350
+Data quality assurance|success|89328464269|Florida;USA|1598130991000|9e82:6127:5f9c:275:ca73:d452:3656:c517
+Building data pipelines|-|89328464270|New York;USA|1602660136000|36d8:53f8:d522:bbfd:59b3:db7e:e93d:f467
+Data governance|success|89328464271|California;USA|1605518703000|3f38:7d91:f331:d5ff:1b2c:8883:3060:7824
+Designing and implementing data models|-|89328464272|New York;USA|1606176022000|9507:f87:ae92:f91a:3e4e:3fd0:361e:584a
+Extracting data from various sources|success|89328464273|Queensland;Australia|1604716763000|e190:404d:f71:d94:b985:dc4a:bc9e:60d4
+Optimizing database performance|success|89328464274|Florida;USA|1606935616000|a809:f47c:5f6f:f1d7:1dba:93bd:250e:2818
+Data integration|success|89328464275|Florida;USA|1599129295000|1f1c:2eef:2c40:b233:5212:a9fc:b9bb:ed6
+Data governance|success|89328464276|Queensland;Australia|1601923561000|21d3:5623:c6b9:8a57:48ff:7fed:1ae1:3265
+Extracting data from various sources|failed|89328464277|Florida;USA|1596787647000|2878:be13:d567:5ebb:6a0f:8094:eace:e2ec
+Designing and implementing data models|success|89328464278|Florida;USA|1590748493000|2a97:a14b:d1e2:e7a9:3155:a84c:fe6d:7ce5
+Building data pipelines|success|89328464279|New York;USA|1603367931000|f7d8:25a2:899d:58fa:bc52:2242:9634:14a0
+Extracting data from various sources|success|89328464280|Queensland;Australia|1593882824000|5ddc:2eff:6425:d715:dbab:e8c9:4dfc:756a
+Optimizing database performance|success|89328464281|California;USA|1599582426000|58d4:4d37:c53:6ce3:6ae8:7f23:c6e1:412f
+Optimizing database performance|success|89328464282|Ontario;Canada|1590884013000|14d5:235b:c43a:1e61:361:e7e9:6778:d205
+Transforming data into a unified format|success|89328464283|Queensland;Australia|1599043062000|3024:80ed:f147:313e:cdb0:3b26:e401:ea25
+Extracting data from various sources|success|89328464284|Queensland;Australia|1590435255000|51a4:6b33:9fa8:2db1:9283:f631:ea71:f137
+Data quality assurance|success|89328464285|Texas;USA|1593410868000|b635:2e65:d621:189c:1460:ced4:78da:bee2
+Building data pipelines|-|89328464286|Texas;USA|1607823913000|2895:f237:e7cf:2a6:87a2:54d4:e18a:2f2a
+Loading data into a data warehouse|failed|89328464287|Tokyo;Japan|1588253841000|4ca5:e07b:81b1:151:186:f547:e70e:7c8c
+Extracting data from various sources|success|89328464288|Texas;USA|1604373282000|1d42:3c18:898c:125a:d80d:4f78:ecf3:6973
+Extracting data from various sources|success|89328464289|Paris;France|1599121271000|29d2:e22f:70b4:707d:d7c0:fdc9:6d29:3549
+Building data pipelines|success|89328464290|California;USA|1598560776000|5b1b:b7f0:4951:ebbc:3cd:ad0d:7b79:e4a0
+Data quality assurance|failed|89328464291|Paris;France|1597760677000|855b:6508:3190:3570:db65:316e:1b00:d682
+Data integration|success|89328464292|Florida;USA|1601086796000|ea0f:bc0b:4cbf:52d8:6714:bc1f:f96d:deff
+Loading data into a data warehouse|success|89328464293|Florida;USA|1597263203000|c8da:1fbb:7a10:f424:ac13:3e7b:a63d:e395
+Building data pipelines|success|89328464294|Queensland;Australia|1589927604000|c0c5:fb46:75ae:e967:2ee2:510c:a95a:bee8
+Data quality assurance|success|89328464295|Ontario;Canada|1591860663000|f4f2:3070:3eae:181c:41c9:285b:fac1:7b52
+Data quality assurance|success|89328464296|Florida;USA|1587230208000|5964:4a62:4e95:94b6:69e5:33ac:cc3b:ce1e
+Extracting data from various sources|success|89328464297|Paris;France|1607235962000|6fe6:8c3b:8597:9bd9:83dd:42c0:8e6d:a91c
+Extracting data from various sources|success|89328464298|Tokyo;Japan|1595947399000|a890:f13e:7196:5de5:be86:989a:36e5:7f1c
+Building data pipelines|-|89328464299|Florida;USA|1592669876000|426f:c4ab:f222:4b34:9de6:f2b4:2ffd:a99c
+Data quality assurance|success|89328464300|Ontario;Canada|1602828006000|6117:ad1c:3cad:631e:e1b7:f39e:8fb4:87a
+Transforming data into a unified format|success|89328464301|Florida;USA|1601423147000|1543:178:da22:c5af:48ab:d19d:b978:938c
+Loading data into a data warehouse|failed|89328464302|Texas;USA|1593676001000|be77:655f:8fba:2194:278a:e76a:be35:ba82
+Data integration|success|89328464303|Paris;France|1592108110000|ac8d:11ad:83b4:7682:ba2f:8344:e124:7ad0
+Extracting data from various sources|success|89328464304|Paris;France|1592824945000|823a:7801:3dd6:98c3:5905:3325:ece:3cec
+Optimizing database performance|success|89328464305|Florida;USA|1590608550000|538b:a8:7ebe:e161:e1c9:321d:fcf:66e
+Data quality assurance|success|89328464306|Texas;USA|1588075043000|c4a3:57b3:a27b:7ead:814d:b157:e334:1677
+Building data pipelines|success|89328464307|New York;USA|1587437462000|848f:5796:e7f2:a85d:e24f:9842:5f3f:936e
+Optimizing database performance|success|89328464308|California;USA|1591786698000|de13:6621:8054:a970:ce33:bb6:ffc6:725b
+Data integration|failed|89328464309|Ontario;Canada|1603507814000|8b57:2549:bf71:9577:5a17:17be:9fca:24f2
+Building data pipelines|-|89328464310|Paris;France|1604206214000|63f8:a2bf:453a:e613:f0ad:29d1:7be4:ce3d
+Data governance|success|89328464311|California;USA|1594874294000|9976:e3e6:3f95:5f6a:4f8a:81e4:b301:fc36
+Building data pipelines|success|89328464312|Texas;USA|1605167273000|7200:c829:c99e:2c64:6ba6:366c:c3b1:b42
+Loading data into a data warehouse|success|89328464313|Paris;France|1597918534000|fa28:e2f3:4842:f00f:16a7:8c60:87eb:1449
+Transforming data into a unified format|success|89328464314|California;USA|1590032447000|f115:d7d8:f519:a63:9706:af9d:9b6a:d104
+Data governance|success|89328464315|Tokyo;Japan|1602332364000|8c2a:1f1:315e:267:39e0:b32a:f393:5d7b
+Data governance|-|89328464316|Tokyo;Japan|1590488585000|5ef8:f325:7ea6:cdb6:73d1:5d3d:ffca:3b6c
+Optimizing database performance|success|89328464317|Queensland;Australia|1588070504000|fa8b:97f2:b71d:de5e:29a2:645:dbac:2b13
+Designing and implementing data models|success|89328464318|Tokyo;Japan|1586308677000|40c9:fc22:d7d4:a6b3:3e6a:fc:dacc:442
+Transforming data into a unified format|success|89328464319|Paris;France|1587961796000|8989:b392:1360:f633:6d0f:ed7b:6704:a932
+Transforming data into a unified format|success|89328464320|Paris;France|1602026537000|279f:32e7:3101:ee0d:7fe9:820a:cd5b:a28d
+Extracting data from various sources|success|89328464321|Texas;USA|1607724603000|ae25:a825:3b04:f819:ecbf:9974:6d92:3e2b
+Designing and implementing data models|-|89328464322|New York;USA|1605463304000|2f10:84dd:5615:ef12:94b2:8856:1073:95d1
+Data governance|success|89328464323|Ontario;Canada|1593682705000|6562:946:8d04:aa72:3abe:8af6:b104:d520
+Building data pipelines|success|89328464324|Florida;USA|1590839533000|6926:c640:b03e:4711:dddd:872b:4848:51f3
+Loading data into a data warehouse|success|89328464325|Ontario;Canada|1592612753000|aea6:d650:7c32:7702:8ac6:9cee:52b9:5ba9
+Designing and implementing data models|success|89328464326|Queensland;Australia|1594222996000|aea0:f21f:c4ff:a31c:ff82:78e5:f27b:c398
+Data quality assurance|success|89328464327|Tokyo;Japan|1589495839000|bb0b:8e8d:5c7f:d514:92ad:536e:bf0b:1f9b
+Transforming data into a unified format|success|89328464328|Florida;USA|1603902721000|1122:aa8:694c:86d8:5d1f:e333:9044:519c
+Transforming data into a unified format|success|89328464329|Queensland;Australia|1595440096000|1f1f:8378:b9f1:7a67:b586:32b2:2567:86fe
+Extracting data from various sources|success|89328464330|Texas;USA|1598291416000|bdb9:b794:acad:6d7c:b549:436e:fa37:b417
+Extracting data from various sources|success|89328464331|New York;USA|1595443976000|cba9:63a:f922:76f4:6420:8efb:d24b:be22
+Extracting data from various sources|success|89328464332|Florida;USA|1596688882000|9233:f647:3f61:9b3c:bf3f:8dc7:c9f7:dd2f
+Data governance|failed|89328464333|Paris;France|1596325922000|4aec:814e:dbff:e3e6:655:9d3e:9d6d:9260
+Optimizing database performance|success|89328464334|Ontario;Canada|1591388404000|8853:cb98:2ff4:9971:b1ba:72c9:6092:5398
+Data governance|failed|89328464335|New York;USA|1598483036000|7801:91e9:d64a:3c82:5b25:67a8:2e33:58b7
+Extracting data from various sources|failed|89328464336|Paris;France|1604635637000|6b7d:a5d6:ddf8:10f7:1ad8:ff6:673e:5c7
+Loading data into a data warehouse|success|89328464337|Ontario;Canada|1605570321000|66c4:abe4:3bb0:6e14:add:f6f7:253a:c67b
+Data integration|success|89328464338|Ontario;Canada|1597138852000|ff3d:50d7:7839:28a9:9c04:9de2:2a1d:43bb
+Transforming data into a unified format|success|89328464339|Paris;France|1597732231000|4c4c:6014:d4b8:941d:67bf:9054:7a01:f7b5
+Extracting data from various sources|success|89328464340|New York;USA|1586840155000|528a:52c7:a049:10b2:34b2:56c3:c488:7f9e
+Data integration|success|89328464341|Texas;USA|1596872813000|f917:bedd:6ee6:5270:6743:ce6c:404b:de97
+Optimizing database performance|success|89328464342|California;USA|1596229744000|fa50:74d2:cffa:f05a:1278:e257:e79c:d7e5
+Data integration|success|89328464343|Texas;USA|1587047193000|9490:1de2:bdea:f402:5e14:600e:3aaf:eab2
+Loading data into a data warehouse|failed|89328464344|Texas;USA|1607384122000|8c66:277b:c45f:3aed:10ea:98bb:fb9a:eff9
+Transforming data into a unified format|-|89328464345|Ontario;Canada|1602093867000|81dd:f3cf:7ae0:2c4d:3ab4:5fb6:e18c:ed7e
+Extracting data from various sources|-|89328464346|Queensland;Australia|1603315130000|b5b5:dfa4:691a:71d6:ee2c:4763:b863:6836
+Extracting data from various sources|success|89328464347|Florida;USA|1605214457000|6dca:f06d:12a1:3ff0:cf0e:de3a:457:70af
+Optimizing database performance|success|89328464348|Tokyo;Japan|1607697675000|38ac:5615:5e8c:c288:d9b7:e051:72bd:955a
+Data governance|failed|89328464349|Ontario;Canada|1593817253000|12c:6ec9:8119:fc84:d82e:1e25:dff6:267d
+Extracting data from various sources|-|89328464350|Tokyo;Japan|1603708982000|4dc5:d652:c158:360f:3833:ed7b:d5d4:d20b
+Data quality assurance|success|89328464351|Queensland;Australia|1590020229000|c605:9e5e:e535:9158:dc4f:c1dd:d73c:9a95
+Data governance|success|89328464352|Florida;USA|1606050578000|7e10:3043:e75c:5a90:15b2:ff8f:ed1f:d9e0
+Optimizing database performance|success|89328464353|California;USA|1586187717000|8d4b:388e:616b:138e:259d:c6e5:91df:f170
+Data integration|success|89328464354|Tokyo;Japan|1598215875000|c70a:b59a:4779:366d:6464:4fa5:1eaf:6b1d
+Data quality assurance|success|89328464355|Texas;USA|1602868130000|3d5d:16ee:90ff:4c29:1033:80b:4cd4:6e43
+Transforming data into a unified format|success|89328464356|Florida;USA|1606408383000|767b:3325:9755:b4da:ef10:d2bb:a08e:6cf5
+Data quality assurance|success|89328464357|Florida;USA|1591260264000|8cb8:31e4:4695:b42:890b:7b2:1ee7:c477
+Extracting data from various sources|success|89328464358|Texas;USA|1602959891000|7b96:b318:2f71:4d9f:6187:6e2:5473:8668
+Data governance|success|89328464359|New York;USA|1590167917000|dee8:755:b2f5:f453:e02a:7d7:71aa:e41a
+Building data pipelines|failed|89328464360|Paris;France|1603844180000|167d:f68c:6e3d:b03c:858:122:ef9:3b5d
+Transforming data into a unified format|failed|89328464361|Tokyo;Japan|1607614934000|174d:d4f0:d874:34c0:f787:83b1:2254:3a5a
+Extracting data from various sources|success|89328464362|Ontario;Canada|1607663957000|20e:9049:31a9:6455:ab01:9020:ea3f:14e3
+Building data pipelines|success|89328464363|Tokyo;Japan|1602288049000|15d9:583:513a:5243:bc9e:66c4:d118:4654
+Extracting data from various sources|success|89328464364|Paris;France|1605286681000|4536:469f:5060:194b:d0d2:2c29:7d76:cae
+Extracting data from various sources|success|89328464365|Texas;USA|1586546045000|b50f:2f81:78cb:7245:d067:4233:fdd4:d54e
+Loading data into a data warehouse|failed|89328464366|Florida;USA|1598183595000|8468:cfaf:7463:e57f:7b81:4e60:951d:c0d1
+Data quality assurance|success|89328464367|Tokyo;Japan|1598774381000|2466:efde:c670:ac9b:f74:94fc:d4b1:3041
+Extracting data from various sources|failed|89328464368|Tokyo;Japan|1604860183000|4b41:2e62:2202:2aae:7a57:1a2d:a9c4:a8d5
+Data governance|-|89328464369|Queensland;Australia|1598628251000|5128:37bc:3f0c:a159:4e0d:61b:a74f:961b
+Designing and implementing data models|-|89328464370|New York;USA|1597128684000|8a51:801c:32f2:804:56fd:13c2:3048:2dd6
+Designing and implementing data models|-|89328464371|Florida;USA|1587511622000|8ead:620:edd2:7315:a1e9:aa42:9e27:8c60
+Data governance|success|89328464372|Ontario;Canada|1591097477000|cfdd:9c42:8376:5125:6560:402b:56f4:ce1a
+Loading data into a data warehouse|success|89328464373|Texas;USA|1605874056000|81cd:ba60:8342:3dec:dfce:2090:2f03:2609
+Building data pipelines|success|89328464374|New York;USA|1591127068000|2cb2:1e1a:b11b:4fb0:6c15:6a9d:cd6d:e1a3
+Extracting data from various sources|success|89328464375|California;USA|1594784598000|9cea:9351:a8f5:9be9:edca:5fdc:dac4:8d04
+Extracting data from various sources|success|89328464376|Queensland;Australia|1587979712000|3490:e97d:ffe4:e6a2:2dba:ada3:6acf:4bc
+Extracting data from various sources|success|89328464377|Tokyo;Japan|1592213865000|b5a8:e33f:a7d2:a208:86fa:9e89:db89:4f59
+Building data pipelines|success|89328464378|Texas;USA|1590592002000|52f5:afa0:8ebd:b0d2:3a03:2c48:a299:b7bb
+Transforming data into a unified format|success|89328464379|Texas;USA|1602060896000|5dc2:c892:1e64:9863:237c:3a2b:5c5a:4cb7
+Building data pipelines|success|89328464380|Queensland;Australia|1597016924000|3c0a:ed0d:6a5f:9031:5cc8:4bbe:99ed:1dc8
+Data governance|success|89328464381|California;USA|1594506054000|6700:7929:2e07:e007:a19c:c497:8af6:47e5
+Extracting data from various sources|success|89328464382|Florida;USA|1586141468000|1fd2:7b2a:b107:73ba:1198:3c57:723a:f0f1
+Designing and implementing data models|failed|89328464383|Queensland;Australia|1592084421000|6c9a:1814:37ed:abf2:d3d9:b73b:8f4f:dca2
+Extracting data from various sources|failed|89328464384|New York;USA|1605179154000|23d5:843f:e005:c4b:349c:7397:4406:c143
+Extracting data from various sources|success|89328464385|Florida;USA|1597262426000|f548:f217:8d77:f3f:4505:989d:2c2a:6e3f
+Data quality assurance|success|89328464386|California;USA|1603434007000|876b:7103:cef8:8dba:150b:7aa2:3a5f:2a0c
+Loading data into a data warehouse|failed|89328464387|Texas;USA|1595818468000|16c0:4616:c60d:fdb7:c18d:461c:3a31:f0c9
+Data quality assurance|failed|89328464388|New York;USA|1601741563000|9bd3:c317:8a47:ee6a:aa45:ec38:c03e:84d0
+Extracting data from various sources|success|89328464389|New York;USA|1592837083000|bb23:abc6:b853:4978:8337:1f72:101e:bc25
+Extracting data from various sources|success|89328464390|New York;USA|1591172990000|7ad2:f1da:4bf3:4708:8acd:8698:a3a8:114d
+Loading data into a data warehouse|success|89328464391|New York;USA|1594697683000|4b55:e93a:a431:a64b:3139:895c:5190:aa15
+Building data pipelines|failed|89328464392|Paris;France|1604318473000|5aa9:d18f:9c65:752c:3050:b53:f34a:c915
+Building data pipelines|-|89328464393|Texas;USA|1591935114000|ad68:f258:181f:19bd:392b:3474:d17e:5c21
+Data integration|success|89328464394|California;USA|1587154487000|cafd:fe5f:5b77:c848:c4c7:c3db:e05a:76e4
+Transforming data into a unified format|success|89328464395|Paris;France|1602403592000|7f1a:40c0:17c1:de1:2d68:1041:3dde:b664
+Extracting data from various sources|-|89328464396|Ontario;Canada|1592328839000|e7f3:d92d:ca08:db7a:8d8f:d04d:1e1:cab0
+Data quality assurance|success|89328464397|Tokyo;Japan|1587565685000|190c:4f29:8cb8:cf1a:6d3b:3190:68a3:1f54
+Data governance|success|89328464398|Tokyo;Japan|1596731244000|2a55:c654:c23d:e120:16d5:2363:c40e:946a
+Data governance|success|89328464399|Paris;France|1589481735000|b7b3:648f:4cc9:285e:c6af:1032:b348:1697
+Extracting data from various sources|success|89328464400|Tokyo;Japan|1586168636000|fe54:fe2d:6dda:e0ba:3e03:613a:aabc:d2ec
+Extracting data from various sources|failed|89328464401|Paris;France|1602958433000|692d:8b9:1fd9:aae0:6c0e:fca9:a208:f8e7
+Transforming data into a unified format|failed|89328464402|Florida;USA|1586437960000|e4ed:7129:744:e77:6889:1f12:c49a:4884
+Optimizing database performance|success|89328464403|Ontario;Canada|1602404841000|9802:31ad:94c8:dea0:9f5e:dcec:1bba:d7fc
+Data quality assurance|success|89328464404|Ontario;Canada|1601551758000|a3eb:1522:24fe:5b00:7bcf:d4a8:8426:aee7
+Extracting data from various sources|success|89328464405|Ontario;Canada|1599972932000|b962:84e5:a6fc:1eff:9acc:7c1d:7080:2562
+Loading data into a data warehouse|success|89328464406|Tokyo;Japan|1599194907000|49f2:4c89:6eb5:134d:5cbb:a595:9dc1:78f0
+Extracting data from various sources|success|89328464407|Tokyo;Japan|1600254820000|c028:25c1:2c77:180c:1547:ea4:79af:f026
+Data quality assurance|success|89328464408|Ontario;Canada|1585846647000|a8f4:96f6:ecc4:f1d2:212:90d7:a44a:8104
+Loading data into a data warehouse|success|89328464409|Queensland;Australia|1600321759000|cbe3:6da7:c81c:700e:81e8:254d:4520:114f
+Transforming data into a unified format|success|89328464410|Tokyo;Japan|1600645299000|4ded:87f5:3bd9:6861:c2a8:1e14:1e2c:5cc4
+Data governance|-|89328464411|Texas;USA|1607383285000|fd3a:2ae8:372f:53fd:c706:b74d:92fb:b628
+Loading data into a data warehouse|success|89328464412|California;USA|1607466077000|dfad:b906:60b7:f22e:9d8:4140:3d36:530d
+Data integration|success|89328464413|Paris;France|1600013866000|b76:9085:2419:133e:b42b:99b:88d6:29ae
+Designing and implementing data models|success|89328464414|Queensland;Australia|1604463495000|80fc:9e87:6295:3f3d:811e:657b:4e30:4204
+Designing and implementing data models|failed|89328464415|California;USA|1588698350000|8d70:cfe2:7ec7:434b:a13f:5a79:1fa5:9759
+Data integration|-|89328464416|Ontario;Canada|1591095494000|31d3:86e:1cfe:5c25:4e8a:7d0a:3f3:8074
+Data quality assurance|success|89328464417|Paris;France|1586815769000|3540:c2d4:b25d:603:d16f:665b:a44e:488a
+Designing and implementing data models|success|89328464418|New York;USA|1607266710000|b235:f6c8:713d:5a5e:d1a9:9f0d:8c74:f269
+Loading data into a data warehouse|success|89328464419|California;USA|1596846349000|105a:b192:fae1:cc7:4287:363:f074:d084
+Designing and implementing data models|success|89328464420|Ontario;Canada|1603157179000|ba3f:2d22:6aec:48c3:bc6b:a5f3:1031:7023
+Data quality assurance|success|89328464421|New York;USA|1596162620000|fe24:42e8:5fd0:c7b3:310:749f:4039:b962
+Building data pipelines|failed|89328464422|Queensland;Australia|1604420023000|5ee3:1d2f:2cdb:8f9c:44fe:4b05:c074:aaf0
+Extracting data from various sources|success|89328464423|Queensland;Australia|1603335141000|e9a3:7ea3:31c0:e1ac:8fed:8328:340d:30ca
+Designing and implementing data models|success|89328464424|Queensland;Australia|1598045308000|c5b7:ef9:7744:1f5f:1357:a351:a967:e678
+Transforming data into a unified format|failed|89328464425|New York;USA|1594360422000|fd47:133b:59c7:f913:305d:afed:5519:f5e2
+Extracting data from various sources|failed|89328464426|Florida;USA|1606742134000|43b3:2c25:8981:ca5:4960:2f9e:855b:8358
+Data quality assurance|success|89328464427|Ontario;Canada|1605965789000|f8de:3531:3641:aac5:76bb:41a9:ca:4015
+Data governance|failed|89328464428|New York;USA|1586583610000|64f6:d704:64f5:1a00:7543:9190:c7f:9004
+Transforming data into a unified format|success|89328464429|Tokyo;Japan|1600029896000|c3c7:1400:92c:1336:6ef:33fa:85fb:754e
+Extracting data from various sources|-|89328464430|Queensland;Australia|1597894484000|922a:89b1:7f55:8484:8f0e:2816:19a2:413a
+Optimizing database performance|success|89328464431|California;USA|1596965573000|f3e7:9981:aaa2:dabc:2d32:e0bd:3292:8af6
+Extracting data from various sources|success|89328464432|Ontario;Canada|1605578369000|4ece:5a93:23fc:dcb9:1a33:9e7f:7c0e:faa2
+Loading data into a data warehouse|-|89328464433|Queensland;Australia|1607170203000|aabe:2080:cc27:6d38:f4a8:4a3f:a2c8:fca2
+Extracting data from various sources|success|89328464434|New York;USA|1590692564000|ffda:a2f4:7264:ec29:2833:f39b:e5c3:1670
+Extracting data from various sources|success|89328464435|California;USA|1605195946000|9348:8f8f:af86:e9d:3a9c:6bc:f642:2ce6
+Transforming data into a unified format|success|89328464436|Ontario;Canada|1597885713000|b1cc:d54f:1b50:84ec:8bd7:b5f8:a97f:118f
+Data governance|success|89328464437|New York;USA|1606991239000|e8ed:ab2d:a32c:dfa8:2d6a:e1f5:e6f3:2989
+Loading data into a data warehouse|success|89328464438|Florida;USA|1596462236000|4f17:28e6:c200:904c:35c3:363a:7e8f:9412
+Designing and implementing data models|success|89328464439|Ontario;Canada|1588773819000|629b:5a13:2e4:766c:f563:9d99:2fa7:3a1a
+Data governance|success|89328464440|Queensland;Australia|1586158340000|b832:b08c:6be9:51c:edeb:d0e2:58d2:b2af
+Transforming data into a unified format|success|89328464441|Ontario;Canada|1594366176000|119a:6a15:d7d:5e87:a53c:36a6:7592:1a07
+Designing and implementing data models|success|89328464442|Texas;USA|1607784945000|c1fe:151b:28d:e42:7685:cc65:d009:523
+Building data pipelines|success|89328464443|Queensland;Australia|1591766406000|17a8:41f9:f9a8:8e65:173f:a0d1:f02c:c1e5
+Building data pipelines|success|89328464444|Paris;France|1593897329000|9599:42f0:909c:6e61:7547:9f84:f994:ce9b
+Data quality assurance|success|89328464445|Florida;USA|1587728835000|6388:e618:d5fe:503a:b2f5:61b8:3b89:b0f0
+Building data pipelines|success|89328464446|New York;USA|1589291236000|ea81:66a5:aeeb:ef51:fef7:8c14:a81b:9fb8
+Optimizing database performance|-|89328464447|Texas;USA|1605748279000|8a07:4614:ba3f:75ca:816f:66c9:da0d:8a8d
+Building data pipelines|success|89328464448|Ontario;Canada|1590049519000|d6bc:4835:439e:64bd:87ec:52e6:8f76:9b9a
+Data quality assurance|success|89328464449|California;USA|1586682409000|6fa3:3a72:ad9:12fd:8ecb:538:19d7:e260
+Extracting data from various sources|failed|89328464450|California;USA|1597610887000|f6f8:a0ac:17ca:560d:56e1:634a:bc5e:1ed3
+Extracting data from various sources|failed|89328464451|New York;USA|1588986556000|fe9a:c718:1c9:8656:453b:cd8f:7f35:542
+Designing and implementing data models|success|89328464452|Tokyo;Japan|1600504243000|fd1d:9ceb:b93d:217d:f1a3:621:d944:640b
+Data governance|success|89328464453|Florida;USA|1589591893000|89ed:ee73:c2ca:8794:45d5:f169:c9b4:5edf
+Extracting data from various sources|-|89328464454|Queensland;Australia|1598299307000|1fe1:2555:111d:7219:affb:e177:a079:733a
+Optimizing database performance|failed|89328464455|Queensland;Australia|1602529214000|96de:2333:458c:f3a2:84af:5580:4254:c397
+Building data pipelines|success|89328464456|Queensland;Australia|1606914104000|798b:205a:a710:b012:f641:e790:765f:173e
+Data governance|success|89328464457|New York;USA|1589666063000|5457:2b43:dffc:3a2d:52b4:5333:2b46:2b8b
+Data governance|success|89328464458|Ontario;Canada|1598779954000|e9ff:9eb2:da98:d3b1:8e2f:93b7:e3d0:1dba
+Transforming data into a unified format|success|89328464459|Queensland;Australia|1591591767000|af64:4fdd:2d1:e941:83ed:16d9:f10e:b0d1
+Data governance|success|89328464460|Florida;USA|1595199497000|4e54:3cab:64a3:4c1f:9bd1:583d:9fe1:dd43
+Data integration|success|89328464461|Ontario;Canada|1591276630000|7038:b789:6f80:2d6f:a666:3eff:4531:7019
+Data integration|success|89328464462|Ontario;Canada|1586857316000|22e4:c646:ec8c:1579:6984:334c:a397:8ea1
+Optimizing database performance|success|89328464463|Florida;USA|1593038947000|cc88:8b32:e834:7145:6b6a:c48:7011:9df1
+Optimizing database performance|success|89328464464|Ontario;Canada|1601439545000|ef11:64df:c0f6:72a5:ed87:36c4:137a:9e47
+Extracting data from various sources|success|89328464465|Paris;France|1597510711000|5525:7c09:21e6:4947:a5f1:359f:cf2c:922a
+Data integration|success|89328464466|California;USA|1591873804000|859d:2664:998d:eefb:b15d:8e32:9def:35a4
+Building data pipelines|-|89328464467|Texas;USA|1596457321000|9416:11fa:1599:e4b4:1976:dc30:c4a5:19c6
+Data quality assurance|success|89328464468|Queensland;Australia|1606824456000|b0f9:545a:ea03:c76b:c04f:efdd:3c9c:f3c9
+Loading data into a data warehouse|success|89328464469|New York;USA|1600510900000|985:c5fe:9d6d:71e4:6e4:69f:261f:d0ca
+Extracting data from various sources|success|89328464470|Queensland;Australia|1593504309000|36df:ddfb:11a8:5a19:8ab0:fcf3:20b5:8bb0
+Extracting data from various sources|success|89328464471|Queensland;Australia|1591644763000|1729:1b59:6156:10be:2221:7f35:9732:bc7b
+Extracting data from various sources|success|89328464472|Tokyo;Japan|1594451960000|c3d3:6bc4:a88d:75b9:4ff1:51ca:67cd:9b8a
+Designing and implementing data models|success|89328464473|New York;USA|1603829483000|8682:424:db77:dc6e:6776:bb5e:2ee3:2a97
+Data integration|success|89328464474|Paris;France|1601812995000|90e5:3799:e7b9:95d5:3d5a:fc41:5e8a:e93e
+Optimizing database performance|success|89328464475|Paris;France|1601506642000|70e5:b271:1322:f36a:eaaa:6d2c:7726:238f
+Data quality assurance|-|89328464476|Florida;USA|1602307721000|34ff:463b:f027:af2c:3a96:14c6:faef:b94a
+Building data pipelines|success|89328464477|Tokyo;Japan|1590704560000|c11a:9696:f4cc:ec0b:2c34:db85:30d8:75d3
+Transforming data into a unified format|success|89328464478|Queensland;Australia|1604463428000|fbb0:ae83:9393:b82:8c58:c38c:a205:376e
+Transforming data into a unified format|success|89328464479|California;USA|1598142729000|2453:2f56:e271:3ef0:d3b9:e0f:4d68:f2b8
+Data integration|-|89328464480|Ontario;Canada|1587385137000|9881:ebd9:fcc2:75b:d26e:d0ea:dbfc:131b
+Building data pipelines|success|89328464481|California;USA|1599356744000|3f3a:a7fe:409d:c8fc:f5f7:17de:7f62:a032
+Data governance|success|89328464482|Texas;USA|1593117157000|e1b6:24be:69e6:7835:281b:d015:bc04:4150
+Optimizing database performance|failed|89328464483|California;USA|1597399201000|18de:15cb:f964:bc62:491:9d79:da3f:a6fd
+Optimizing database performance|success|89328464484|Texas;USA|1607161055000|cc7c:3591:1c62:280c:b259:dc89:e69d:2d75
+Building data pipelines|success|89328464485|Texas;USA|1588130663000|3336:1461:f197:bad9:705f:7dd:8c59:a5e4
+Designing and implementing data models|success|89328464486|New York;USA|1604987132000|633d:e149:e22f:a277:b5f6:dae8:b32c:ea9e

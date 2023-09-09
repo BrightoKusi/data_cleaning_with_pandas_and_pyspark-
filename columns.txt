@@ -1,0 +1,8 @@
+task;status;trackerID;serverregion;timestamp;server
+Description
+task: The task performed by the executed function
+status: The execution status
+trackerID: The executionID used to track these functions
+serverregion: The location of the server on which the said function was executed
+timestamp: The time the function was executed
+server: The IP address of the server on which the said function was executed
