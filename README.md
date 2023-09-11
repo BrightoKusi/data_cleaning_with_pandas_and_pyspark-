@@ -23,4 +23,6 @@ columns.txt - the corresponding headers of the dataset existing in the log file 
 - change timestamp from unix to datetime 
 - check failed operations
 - convert to csv format
+- partition the file 
+- run business analysis on data
 
