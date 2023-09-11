@@ -1,0 +1,8 @@
+status,trackerId,server_region,timestamp,server,date_time,state
+success,89328463778,Ontario;Canada,1598800064000,3e71:9bd1:eeb2:1b12:bc4b:c52a:e18c:eb13,2020-08-30T15:07:44.000Z,Ontario
+success,89328464001,Ontario;Canada,1593653169000,db91:a376:132f:eeec:648b:5447:1705:adb6,2020-07-02T01:26:09.000Z,Ontario
+success,89328464022,Ontario;Canada,1600590873000,cdc5:1089:4fc2:eac2:f9a5:3e5b:3711:4c0a,2020-09-20T08:34:33.000Z,Ontario
+success,89328464145,Ontario;Canada,1596046369000,2310:643a:b1fc:c915:ca43:cc8:b06b:25bb,2020-07-29T18:12:49.000Z,Ontario
+success,89328464160,Ontario;Canada,1596072142000,91fd:ebd1:a07f:3ff1:c13c:29eb:b851:3918,2020-07-30T01:22:22.000Z,Ontario
+success,89328464238,Ontario;Canada,1586144640000,c1b8:1df0:72c5:369:6317:d8fc:ec5d:7b8b,2020-04-06T03:44:00.000Z,Ontario
+success,89328464448,Ontario;Canada,1590049519000,d6bc:4835:439e:64bd:87ec:52e6:8f76:9b9a,2020-05-21T08:25:19.000Z,Ontario

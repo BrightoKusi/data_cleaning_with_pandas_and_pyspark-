@@ -1,0 +1,17 @@
+status,trackerId,server_region,timestamp,server,date_time,state
+success,89328463496,Queensland;Australia,1597993211000,f57b:4c0e:26c9:f04d:74a9:16b7:2b02:a063,2020-08-21T07:00:11.000Z,Queensland
+success,89328463542,Queensland;Australia,1595569846000,ce75:6e62:67e7:78a8:d43e:63bd:daf9:243f,2020-07-24T05:50:46.000Z,Queensland
+success,89328463588,Queensland;Australia,1585946188000,8b6:396e:7626:9766:2d11:b281:a0d6:c34a,2020-04-03T20:36:28.000Z,Queensland
+success,89328463592,Queensland;Australia,1586566066000,80b2:40d6:fcd8:92af:10be:f6d2:2e70:43ff,2020-04-11T00:47:46.000Z,Queensland
+success,89328463617,Queensland;Australia,1596700737000,1751:eafe:2db7:2e1:9bee:bc6f:fa93:50d3,2020-08-06T07:58:57.000Z,Queensland
+success,89328463638,Queensland;Australia,1600357094000,c71f:2f9b:b9a:e393:7469:2759:f531:afba,2020-09-17T15:38:14.000Z,Queensland
+success,89328463702,Queensland;Australia,1590694362000,3aa6:cada:ecaa:a8b0:2549:8012:813f:3892,2020-05-28T19:32:42.000Z,Queensland
+success,89328463731,Queensland;Australia,1598021529000,3995:1005:10d7:78b9:d56a:b415:8550:bc4e,2020-08-21T14:52:09.000Z,Queensland
+success,89328463790,Queensland;Australia,1606479501000,e68b:bbc6:33:fb03:bb9f:23bb:ae07:58ce,2020-11-27T12:18:21.000Z,Queensland
+success,89328463793,Queensland;Australia,1607398989000,e3e4:c38e:8964:5028:81f4:704f:382f:7bdb,2020-12-08T03:43:09.000Z,Queensland
+success,89328463980,Queensland;Australia,1600669615000,e8f5:331b:cf6b:c88b:b134:ce79:4aa7:7e45,2020-09-21T06:26:55.000Z,Queensland
+success,89328464166,Queensland;Australia,1596240245000,368e:dd99:663e:a070:9344:d906:cf5e:f392,2020-08-01T00:04:05.000Z,Queensland
+success,89328464218,Queensland;Australia,1606672099000,4b40:b06e:ad0f:a828:5063:76ac:b4c2:3b80,2020-11-29T17:48:19.000Z,Queensland
+success,89328464276,Queensland;Australia,1601923561000,21d3:5623:c6b9:8a57:48ff:7fed:1ae1:3265,2020-10-05T18:46:01.000Z,Queensland
+-,89328464369,Queensland;Australia,1598628251000,5128:37bc:3f0c:a159:4e0d:61b:a74f:961b,2020-08-28T15:24:11.000Z,Queensland
+success,89328464440,Queensland;Australia,1586158340000,b832:b08c:6be9:51c:edeb:d0e2:58d2:b2af,2020-04-06T07:32:20.000Z,Queensland

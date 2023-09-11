@@ -1,0 +1,12 @@
+status,trackerId,server_region,timestamp,server,date_time,state
+success,89328463495,Queensland;Australia,1594313425000,25d3:9eb2:8066:4cb:3f84:13d5:ab0f:9e3,2020-07-09T16:50:25.000Z,Queensland
+success,89328463701,Queensland;Australia,1587733781000,fea7:9fd6:2f2e:90b9:b96c:6b2e:6464:d3a0,2020-04-24T13:09:41.000Z,Queensland
+success,89328463725,Queensland;Australia,1602410220000,9734:e037:4351:8b66:5d77:bfbc:f5dc:cc03,2020-10-11T09:57:00.000Z,Queensland
+success,89328463803,Queensland;Australia,1588575933000,51f5:b709:48a4:3884:b174:d768:b46d:b8d9,2020-05-04T07:05:33.000Z,Queensland
+success,89328463959,Queensland;Australia,1602176250000,48e2:cdf7:b425:400a:a8db:2170:1dbe:66bd,2020-10-08T16:57:30.000Z,Queensland
+-,89328463977,Queensland;Australia,1598823804000,e744:c09f:1b0e:3e25:db0e:1918:1b19:5fd2,2020-08-30T21:43:24.000Z,Queensland
+success,89328464083,Queensland;Australia,1601674353000,7a82:1d49:ae63:a463:2f56:1a79:7f99:283,2020-10-02T21:32:33.000Z,Queensland
+-,89328464089,Queensland;Australia,1607674317000,5d5e:703:42ef:41e6:dea3:e762:6fe1:4ccc,2020-12-11T08:11:57.000Z,Queensland
+success,89328464244,Queensland;Australia,1595018489000,c7af:5673:691c:36c6:7620:6d7f:23ea:e6cc,2020-07-17T20:41:29.000Z,Queensland
+success,89328464317,Queensland;Australia,1588070504000,fa8b:97f2:b71d:de5e:29a2:645:dbac:2b13,2020-04-28T10:41:44.000Z,Queensland
+failed,89328464455,Queensland;Australia,1602529214000,96de:2333:458c:f3a2:84af:5580:4254:c397,2020-10-12T19:00:14.000Z,Queensland
